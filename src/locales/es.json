@@ -1,0 +1,914 @@
+
+{
+  "nav": {
+    "women": "Mujeres",
+    "men": "Hombres",
+    "clothing": "Ropa",
+    "accessories": "Accesorios",
+    "shoes": "Zapatos",
+    "ai_stylist": "Estilista IA"
+  },
+  "header": {
+    "toggle_menu": "Alternar menú",
+    "select_language": "Seleccionar idioma",
+    "search": "Buscar",
+    "favorites": "Favoritos",
+    "cart": "Cesta"
+  },
+  "user_nav": {
+    "my_account": "Mi cuenta",
+    "profile": "Perfil",
+    "logout": "Cerrar sesión",
+    "login": "Iniciar sesión",
+    "signup": "Registrarse"
+  },
+  "footer": {
+    "tagline": "Moda elegante para conocedores.",
+    "shop": "Tienda",
+    "help": "Ayuda",
+    "contact": "Contacto",
+    "order_tracking": "Seguimiento de pedidos",
+    "returns": "Devoluciones",
+    "faq": "FAQ",
+    "legal": "Legal",
+    "terms": "Términos de servicio",
+    "privacy": "Política de privacidad",
+    "rights_reserved": "Todos los derechos reservados."
+  },
+  "hero": {
+    "title": "Elegancia Redefinida",
+    "subtitle": "Descubre colecciones exclusivas que combinan un estilo atemporal con tendencias modernas.",
+    "button": "Descubrir la Colección",
+    "alt": "Modelo con ropa de lujo"
+  },
+  "philosophy": {
+    "materials": {
+      "title": "Materiales Nobles",
+      "description": "Seleccionamos solo los tejidos más finos, desde la cachemira italiana hasta el algodón egipcio, para una sensación y durabilidad inigualables."
+    },
+    "craftsmanship": {
+      "title": "Artesanía",
+      "description": "Cada pieza es el resultado de una artesanía excepcional, donde las técnicas tradicionales se encuentran con el diseño moderno para garantizar un acabado perfecto."
+    },
+    "exclusivity": {
+      "title": "Exclusividad",
+      "description": "Nuestras colecciones limitadas y piezas exclusivas le garantizan un estilo único que le distinguirá."
+    }
+ },
+  "home": {
+    "trending_products": "Productos de Tendencia",
+    "trending_description": "Las piezas más codiciadas de la temporada.",
+    "view_all_products": "Ver Todos los Productos",
+    "new_arrivals": "Novedades",
+    "new_arrivals_description": "Explore las últimas incorporaciones a nuestra colección.",
+    "testimonials": "Testimonios",
+    "testimonials_description": "Lo que nuestros clientes dicen de nosotros.",
+    "maison_menu": {
+      "title": "Menú Maison",
+      "tailoring": {
+        "subtitle": "Precisión Sartorial",
+        "title": "Atelier Tailoring",
+        "description": "Trajes arquitectónicos y precisión sartorial.",
+        "cta": "Explorar Hombres"
+      },
+      "couture": {
+        "subtitle": "Maison Lumière",
+        "title": "Couture & Soirée",
+        "description": "Vestidos fluidos, sedas luminosas y alta costura contemporánea.",
+        "cta": "Explorar Mujeres"
+      },
+      "accessories": {
+        "subtitle": "Galería Selección",
+        "title": "Salón de Accesorios",
+        "description": "Bolsos icónicos, perfumes de autor y joyas modernas.",
+        "cta": "Explorar Accesorios"
+      },
+       "winter": {
+        "subtitle": "Colección de Invierno",
+        "title": "Temporada de Invierno",
+        "description": "Abrigos cálidos, cachemira suave y capas elegantes para el frío.",
+        "cta": "Explorar la Colección"
+      }
+    }
+  },
+  "categories": {
+    "women": "Mujeres",
+    "men": "Hombres",
+    "clothing": "Ropa",
+    "accessories": "Accesorios",
+    "shoes": "Zapatos"
+  },
+  "testimonial": {
+    "lena": {
+      "name": "Lena S.",
+      "quote": "Calidad excepcional y un estilo inigualable. EZENTIALS se ha convertido en mi sitio de referencia para la moda de lujo."
+    },
+    "felix": {
+      "name": "Felix K.",
+      "quote": "Finalmente, una tienda que entiende la elegancia masculina. Los cortes son perfectos y los materiales muy agradables."
+    },
+    "hannah": {
+      "name": "Hannah W.",
+      "quote": "Pedí un vestido para una gala y recibí un montón de cumplidos. El servicio al cliente también es muy atento."
+    }
+  },
+  "product_card": {
+    "add": "Añadir",
+    "add_to_favorites": "Añadir a favoritos"
+  },
+  "product_grid": {
+    "no_products": "No se encontraron productos."
+  },
+  "search": {
+    "title": "Buscar Productos",
+    "placeholder": "Buscar un blazer, un vestido...",
+    "no_results": "No se han encontrado resultados para tu búsqueda."
+  },
+  "products_page": {
+    "title": "Todas las Colecciones",
+    "description": "Explore nuestro catálogo completo de ropa y accesorios de lujo."
+  },
+  "women_page": {
+    "title": "Colección de Mujer",
+    "description": "Elegancia y sofisticación para la mujer moderna."
+  },
+  "men_page": {
+    "title": "Colección de Hombre",
+    "description": "Estilo y elegancia para el hombre moderno."
+  },
+  "clothing_page": {
+    "title": "Ropa",
+    "description": "Descubra nuestra selección de ropa de primera calidad."
+  },
+  "accessories_page": {
+    "title": "Accesorios",
+    "description": "El toque final para un estilo perfecto."
+  },
+  "shoes_page": {
+    "title": "Zapatos",
+    "description": "Completa tu look con nuestra selección de calzado de lujo."
+  },
+  "winter_page": {
+    "title": "Colección de Invierno",
+    "description": "Envuélvete en elegancia con nuestra selección de abrigos, jerséis y accesorios cálidos."
+  },
+  "cart_page": {
+    "title": "Tu Cesta",
+    "description": "Revisa los artículos de tu cesta antes de pagar.",
+    "empty_message": "Tu cesta está vacía.",
+    "continue_shopping": "Seguir comprando",
+    "items_placeholder": "Lista de artículos de la cesta aquí...",
+    "proceed_to_checkout": "Proceder al pago",
+    "login_prompt_title": "¡Casi listo!",
+    "login_prompt_desc_1": "Por favor",
+    "login_prompt_link": "inicia sesión",
+    "login_prompt_desc_2": "o crea una cuenta para proceder al pago."
+  },
+  "cart_sheet": {
+    "shipping_notice": "Los gastos de envío y los impuestos se calculan en la caja.",
+    "view_cart": "Ver Cesta",
+    "continue_shopping": "Seguir Comprando"
+  },
+  "checkout_page": {
+    "title": "Pagar",
+    "description": "Complete su pedido de forma segura.",
+    "coming_soon": "El proceso de pago está en construcción.",
+    "shipping_address": "Dirección de envío",
+    "full_name": "Nombre completo",
+    "full_name_placeholder": "Juan Pérez",
+    "address": "Dirección",
+    "address_placeholder": "Calle Principal 123",
+    "city": "Ciudad",
+    "zip_code": "Código postal",
+    "country": "País",
+    "payment_details": "Detalles de pago",
+    "card_number": "Número de tarjeta",
+    "expiry_date": "Fecha de caducidad",
+    "cvc": "CVC",
+    "order_summary": "Resumen del pedido",
+    "subtotal": "Subtotal",
+    "shipping": "Envío",
+    "free": "Gratis",
+    "total": "Total",
+    "pay_now": "Pagar ahora de forma segura",
+    "secure_payment": "Pago seguro con Stripe."
+  },
+  "favorites_page": {
+    "title": "Mis Favoritos",
+    "description": "Su selección personal de artículos.",
+    "empty_title": "Tu lista de deseos está vacía",
+    "empty_message": "Añade los artículos que te gustan para guardarlos aquí.",
+    "discover_button": "Descubrir Nuestros Productos"
+  },
+  "orders_page": {
+    "title": "Mis Pedidos",
+    "description": "Comprueba el historial de tus pedidos.",
+    "no_orders": "Todavía no has realizado ningún pedido.",
+    "order_id": "Pedido",
+    "quantity": "Cantidad"
+  },
+  "profile_page": {
+    "title": "Perfil",
+    "description": "Gestiona la información de tu cuenta.",
+    "coming_soon": "La gestión de perfiles estará disponible en breve.",
+    "first_name": "Nombre",
+    "last_name": "Apellido",
+    "save_button": "Guardar cambios",
+    "update_success_title": "Perfil actualizado",
+    "update_success_desc": "Tu información se ha guardado correctamente."
+  },
+  "account_layout": {
+    "title": "Mi Cuenta",
+    "profile": "Perfil",
+    "orders": "Mis Pedidos",
+    "favorites": "Mis Favoritos",
+    "verification_required_title": "Se requiere verificación por correo electrónico",
+    "verification_required_desc": "Por favor, verifique su dirección de correo electrónico para acceder a su cuenta. Se ha enviado un enlace de verificación a su bandeja de entrada."
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "description": "Encuentre respuestas a sus preguntas más comunes.",
+    "shipping": {
+      "question": "¿Cuáles son las opciones de envío?",
+      "answer": "Ofrecemos envío estándar gratuito (3-5 días laborables) en todos los pedidos. El envío exprés (1-2 días laborables) está disponible por un cargo adicional."
+    },
+    "returns": {
+      "question": "¿Cómo puedo devolver un artículo?",
+      "answer": "Puede devolver cualquier artículo de forma gratuita en un plazo de 30 días desde su recepción. Visite nuestro portal de devoluciones para iniciar el proceso."
+    },
+    "sizing": {
+      "question": "¿Cómo encuentro mi talla correcta?",
+      "answer": "Cada página de producto incluye una guía de tallas detallada con medidas específicas. Si no está seguro, no dude en ponerse en contacto con nuestro servicio de atención al cliente para una consulta personal."
+    },
+    "care": {
+      "question": "¿Cómo cuido mis artículos?",
+      "answer": "Las instrucciones de cuidado están disponibles en la etiqueta de cada artículo y en la sección 'Detalles y Cuidado' de la página del producto. Para materiales delicados como la cachemira o la seda, recomendamos la limpieza en seco profesional."
+    },
+    "contact": {
+      "question": "¿Cómo puedo contactar con ustedes?",
+      "answer": "Nuestro equipo de atención al cliente está disponible por correo electrónico en ezcentials@gmail.com o a través de nuestro formulario de contacto. Nos esforzamos por responder a todas las consultas en 24 horas."
+    }
+  },
+  "contact_page": {
+    "title": "Contáctenos",
+    "description": "Estamos aquí para ayudar. No dude en contactarnos si tiene alguna pregunta o comentario.",
+    "form_title": "Envíenos un mensaje",
+    "name_label": "Su Nombre",
+    "email_label": "Su Email",
+    "message_label": "Su Mensaje",
+    "send_button": "Enviar Mensaje",
+    "toast_success_title": "Mensaje Enviado",
+    "toast_success_desc": "Gracias por contactarnos. Nos pondremos en contacto con usted pronto."
+  },
+  "recently_viewed": {
+    "title": "Vistos Recientemente"
+  },
+  "product_page": {
+    "reviews_count": "opiniones",
+    "color": "Color",
+    "select_color": "Seleccionar color",
+    "size": "Talla",
+    "add_to_cart": "Añadir a la cesta",
+    "add_to_favorites": "Añadir a favoritos",
+    "favorited": "En favoritos",
+    "favorite": "Favorito",
+    "out_of_stock": "Agotado",
+    "details_care": "Detalles y Cuidado",
+    "default_details": "Composición: 80% Satén, 20% Seda. Lavar a mano únicamente. No usar secadora.",
+    "shipping_returns": "Envío y Devoluciones",
+    "shipping_details": "Envío estándar gratuito en 3-5 días laborables. Devoluciones gratuitas en 30 días.",
+    "customer_reviews": "Opiniones de clientes",
+    "what_customers_say": "Lo que dicen nuestros clientes",
+    "cancel_review": "Cancelar",
+    "write_review": "Escribir una opinión",
+    "share_opinion": "Comparta su opinión",
+    "your_name": "Su nombre",
+    "name_placeholder": "p. ej., Juan Pérez",
+    "your_rating": "Su calificación",
+    "your_comment": "Su comentario",
+    "comment_placeholder": "Describa su experiencia...",
+    "submit_review": "Enviar opinión",
+    "be_the_first_review": "¡Sé el primero en dejar una opinión sobre este producto!",
+    "toast": {
+      "favorite_added_title": "Añadido a favoritos",
+      "favorite_added_desc": "se ha añadido a tu lista de favoritos.",
+      "favorite_removed_title": "Eliminado de favoritos",
+      "favorite_removed_desc": "se ha eliminado de tu lista de favoritos.",
+      "review_submitted_title": "Opinión enviada",
+      "review_submitted_desc": "Gracias por compartir tu experiencia.",
+      "login_for_review_title": "Inicio de sesión requerido",
+      "login_for_review_desc": "Debe iniciar sesión para dejar una opinión."
+    }
+  },
+  "login_form": {
+    "title": "Iniciar sesión",
+    "description": "Introduce tu correo electrónico a continuación para iniciar sesión en tu cuenta.",
+    "error_title": "Error de inicio de sesión",
+    "password": "Contraseña",
+    "submit_button": "Iniciar sesión",
+    "forgot_password": "¿Has olvidado tu contraseña?",
+    "no_account": "¿No tienes una cuenta?",
+    "signup_link": "Registrarse",
+    "password_reset_error_title": "Error al restablecer la contraseña",
+    "password_reset_error_desc": "Por favor, introduce una dirección de correo electrónico válida.",
+    "password_reset_success_title": "Correo electrónico de restablecimiento de contraseña enviado",
+    "password_reset_success_desc": "Revisa tu bandeja de entrada para más instrucciones.",
+    "google_signin": "Iniciar sesión con Google",
+    "or_continue_with": "O continuar con"
+  },
+  "signup_form": {
+    "title": "Registrarse",
+    "description": "Crea una cuenta para disfrutar de una experiencia personalizada.",
+    "error_title": "Error de registro",
+    "full_name": "Nombre completo",
+    "full_name_placeholder": "Nombre Apellido",
+    "password": "Contraseña",
+    "submit_button": "Crear cuenta",
+    "already_have_account": "¿Ya tienes una cuenta?",
+    "login_link": "Iniciar sesión",
+    "success_title": "Cuenta creada con éxito",
+    "success_description": "Se ha enviado un correo electrónico de verificación. Por favor, revisa tu bandeja de entrada (o la consola del terminal en modo de desarrollo).",
+    "error_email_in_use": "Esta dirección de correo electrónico ya está en uso.",
+    "error_generic": "Se ha producido un error al crear la cuenta.",
+    "google_signup": "Registrarse con Google"
+  },
+  "ai_stylist": {
+    "title": "Tu Estilista Personal de IA",
+    "description": "Describe tu estilo y crearemos una selección personalizada para ti, inspirada en tus hábitos de navegación.",
+    "form_label": "¿Cuáles son tus preferencias y deseos de estilo actuales?",
+    "form_placeholder": "p. ej., me gusta un estilo minimalista, colores neutros y materiales naturales como el lino y el algodón. Busco un atuendo para una boda de verano...",
+    "button_text": "Obtener Mis Recomendaciones",
+    "error_title": "Error",
+    "error_message": "Se ha producido un error al generar las recomendaciones.",
+    "results_title": "Nuestras Sugerencias Para Ti",
+    "browsing_history_default": "El usuario no tiene historial de navegación.",
+    "browsing_history_viewed": "Productos vistos recientemente: {{products}}.",
+    "browsing_history_favorites": "Productos favoritos: {{products}}."
+  },
+  "privacy_policy": {
+    "title": "Política de Privacidad",
+    "last_updated": "Última actualización: 24 de mayo de 2024",
+    "introduction": {
+      "title": "Introducción",
+      "content": "Bienvenido a EZENTIALS. Respetamos su privacidad y nos comprometemos a proteger sus datos personales. Esta política de privacidad le informará sobre cómo cuidamos sus datos personales cuando visita nuestro sitio web."
+    },
+    "data_collected": {
+      "title": "Datos que recopilamos sobre usted",
+      "content": "Podemos recopilar, usar, almacenar y transferir diferentes tipos de datos personales sobre usted que hemos agrupado de la siguiente manera: Datos de Identidad, Datos de Contacto, Datos Financieros, Datos de Transacciones, Datos Técnicos, Datos de Perfil y Datos de Uso."
+    },
+    "data_usage": {
+      "title": "Cómo usamos sus datos personales",
+      "content": "Solo usaremos sus datos personales para proporcionar y mejorar nuestros servicios, procesar sus pedidos, administrar su cuenta, personalizar su experiencia en nuestro sitio y comunicarnos con usted."
+    },
+    "data_sharing": {
+      "title": "Intercambio de datos",
+      "content": "Podemos compartir sus datos personales con terceros para fines específicos, como procesadores de pagos y socios de entrega. No compartimos sus datos con terceros con fines de marketing sin su consentimiento expreso."
+    },
+    "cookies": {
+      "title": "Cookies",
+      "content": "Nuestro sitio web utiliza cookies para distinguirlo de otros usuarios de nuestro sitio web. Esto nos ayuda a brindarle una buena experiencia cuando navega por nuestro sitio web y también nos permite mejorar nuestro sitio."
+    },
+    "security": {
+      "title": "Seguridad de los datos",
+      "content": "Hemos implementado medidas de seguridad apropiadas para evitar que sus datos personales se pierdan, usen o accedan accidentalmente de manera no autorizada, se alteren o se divulguen."
+    },
+    "user_rights": {
+      "title": "Sus derechos legales",
+      "content": "En determinadas circunstancias, tiene derechos en virtud de las leyes de protección de datos en relación con sus datos personales, incluido el derecho de acceso, corrección, eliminación, restricción del procesamiento, objeción al procesamiento y portabilidad de datos."
+    },
+    "contact": {
+      "title": "Contáctenos",
+      "content": "Si tiene alguna pregunta sobre esta política de privacidad, contáctenos en ezcentials@gmail.com."
+    }
+  },
+  "terms_of_service": {
+    "title": "Términos de Servicio",
+    "last_updated": "Última actualización: 24 de mayo de 2024",
+    "agreement": {
+      "title": "Aceptación de los términos",
+      "content": "Al acceder o utilizar nuestro Servicio, usted acepta estar sujeto a estos Términos. Si no está de acuerdo con alguna parte de los términos, no podrá acceder al Servicio."
+    },
+    "accounts": {
+      "title": "Cuentas",
+      "content": "Cuando crea una cuenta con nosotros, debe proporcionarnos información precisa, completa y actualizada en todo momento. El incumplimiento de esta disposición constituye un incumplimiento de los Términos, que puede resultar en la terminación inmediata de su cuenta en nuestro Servicio."
+    },
+    "products": {
+      "title": "Productos",
+      "content": "Hemos hecho todo lo posible para mostrar con la mayor precisión posible los colores e imágenes de nuestros productos que aparecen en la tienda. No podemos garantizar que la visualización de cualquier color en el monitor de su computadora sea precisa. Todas las descripciones de los productos o los precios de los productos están sujetos a cambios en cualquier momento sin previo aviso, a nuestra entera discreción."
+    },
+    "payments": {
+      "title": "Pagos",
+      "content": "Nos reservamos el derecho de rechazar cualquier pedido que realice con nosotros. Podemos, a nuestra entera discreción, limitar o cancelar las cantidades compradas por persona, por hogar o por pedido. En caso de que realicemos un cambio o cancelemos un pedido, podemos intentar notificarlo contactando el correo electrónico y/o la dirección de facturación/número de teléfono proporcionado en el momento en que se realizó el pedido."
+    },
+    "intellectual_property": {
+      "title": "Propiedad intelectual",
+      "content": "El Servicio y su contenido original, características y funcionalidad son y seguirán siendo propiedad exclusiva de EZENTIALS y sus licenciantes. El Servicio está protegido por derechos de autor, marcas registradas y otras leyes tanto del País como de países extranjeros."
+    },
+    "limitation_of_liability": {
+      "title": "Limitación de responsabilidad",
+      "content": "En ningún caso EZENTIALS, ni sus directores, empleados, socios, agentes, proveedores o afiliados, serán responsables de ningún daño indirecto, incidental, especial, consecuente o punitivo, incluidos, entre otros, la pérdida de ganancias, datos, uso, buena voluntad u otras pérdidas intangibles."
+    },
+    "governing_law": {
+      "title": "Ley que rige",
+      "content": "Estos Términos se regirán e interpretarán de acuerdo con las leyes del País, sin tener en cuenta sus disposiciones sobre conflictos de leyes."
+    },
+    "contact": {
+      "title": "Contáctenos",
+      "content": "Si tiene alguna pregunta sobre estos Términos, contáctenos en legal@ezentials.com."
+    }
+  },
+  "filters": {
+    "sort_by": "Ordenar por",
+    "newest": "Novedades",
+    "price_asc": "Precio: ascendente",
+    "price_desc": "Precio: descendente",
+    "categories": "Categorías",
+    "price": "Precio",
+    "sizes": "Tallas",
+    "colors": "Colores"
+  },
+  "products": {
+    "robe_midi_soie_gucci": {
+        "name": "Vestido midi de seda Gucci",
+        "description": "Vestido de seda fluido con estampado, largo midi, cuello redondo, mangas largas y ligeras, ideal para eventos de noche o elegantes."
+    },
+    "blazer_croise_balmain": {
+        "name": "Blazer cruzado Balmain",
+        "description": "Blazer estructurado de mezcla de lana, hombros pronunciados, botones dorados, look chic y moderno."
+    },
+    "pull_col_roule_cachemire_loro_piana_femme": {
+        "name": "Jersey de cuello alto de cachemira Loro Piana",
+        "description": "Punto suave y grueso, corte entallado, ideal para los días fríos."
+    },
+    "pantalon_large_laine_max_mara": {
+        "name": "Pantalón ancho de lana Max Mara",
+        "description": "Corte fluido, talle alto, tejido de lana merino, look sofisticado."
+    },
+    "jean_slim_premium_diesel": {
+        "name": "Vaqueros slim premium Diesel",
+        "description": "Denim elástico, corte entallado, acabado de alta gama."
+    },
+    "chemisier_soie_imprimee_saint_laurent": {
+        "name": "Blusa de seda estampada Saint Laurent",
+        "description": "Seda fluida, estampados sutiles, cuello clásico y mangas largas, muy elegante."
+    },
+    "robe_courte_laine_prada": {
+        "name": "Vestido corto de lana Prada",
+        "description": "Vestido de invierno, corte recto, tejido de lana grueso, mangas largas, cómodo y chic."
+    },
+    "manteau_long_cachemire_max_mara": {
+        "name": "Abrigo largo de cachemira Max Mara",
+        "description": "Corte elegante, cinturón integrado, lana suave y cálida."
+    },
+    "veste_courte_matelassee_moncler": {
+        "name": "Chaqueta corta acolchada Moncler",
+        "description": "Chaqueta de plumas corta, cálida y ligera, estilo casual chic."
+    },
+    "pull_oversize_torsade_chloe": {
+        "name": "Jersey oversize de punto de ochos Chloé",
+        "description": "Punto grueso, corte ancho, comodidad y estilo."
+    },
+    "jupe_crayon_laine_hugo_boss": {
+        "name": "Falda lápiz de lana Hugo Boss",
+        "description": "Talle alto, lana premium, corte elegante para la oficina o la noche."
+    },
+    "robe_longue_plissee_valentino": {
+        "name": "Vestido largo plisado Valentino",
+        "description": "Tejido fluido, plisado delicado, mangas largas, look romántico."
+    },
+    "chemise_coton_premium_burberry": {
+        "name": "Camisa de algodón premium Burberry",
+        "description": "Algodón grueso, corte clásico, logo discreto, perfecta para el trabajo o un look casual chic."
+    },
+    "robe_portefeuille_soie_dvf": {
+        "name": "Vestido cruzado de seda Diane von Fürstenberg",
+        "description": "Tejido fluido, corte cruzado favorecedor, mangas 3/4, look atemporal."
+    },
+    "pantalon_tailleur_dior_femme": {
+        "name": "Pantalón de sastre de Dior para mujer",
+        "description": "Corte recto elegante, tejido de mezcla de lana, look de alta costura."
+    },
+    "pull_col_bateau_ralph_lauren": {
+        "name": "Jersey de cuello barco Ralph Lauren",
+        "description": "Lana merina, corte clásico, acabado de alta gama, ideal para el invierno."
+    },
+    "cardigan_long_cachemire_cucinelli": {
+        "name": "Cárdigan largo de cachemira Brunello Cucinelli",
+        "description": "Ultra suave, corte largo, botones metálicos refinados."
+    },
+    "robe_asymetrique_givenchy": {
+        "name": "Vestido asimétrico Givenchy",
+        "description": "Corte original, tejido fluido, manga larga, look moderno."
+    },
+    "blouse_satinee_stella_mccartney": {
+        "name": "Blusa de satén Stella McCartney",
+        "description": "Satén suave, mangas abullonadas, cuello redondo, estilo femenino y refinado."
+    },
+    "combinaison_pantalon_balenciaga": {
+        "name": "Mono Balenciaga",
+        "description": "Corte recto, tejido premium, look minimalista y chic."
+    },
+    "manteau_oversize_acne_studios": {
+        "name": "Abrigo oversize Acne Studios",
+        "description": "Corte ancho, mezcla de lana, mangas largas, estilo casual de lujo."
+    },
+    "robe_pull_cachemire_max_mara": {
+        "name": "Vestido jersey de cachemira Max Mara",
+        "description": "Punto grueso, corte entallado, mangas largas, comodidad y elegancia."
+    },
+    "pantalon_cuir_saint_laurent": {
+        "name": "Pantalón de cuero Saint Laurent",
+        "description": "Piel de cordero premium, corte slim, look rock-chic."
+    },
+    "jupe_plissee_midi_valentino": {
+        "name": "Falda midi plisada Valentino",
+        "description": "Tejido ligero, plisado delicado, talle alto, elegancia garantizada."
+    },
+    "tshirt_brode_logo_gucci": {
+        "name": "Camiseta con logo bordado Gucci",
+        "description": "Algodón premium, logo bordado discreto, corte entallado."
+    },
+    "pull_col_bateau_manches_ballon_chloe": {
+        "name": "Jersey de cuello barco con mangas abullonadas Chloé",
+        "description": "Lana fina, mangas ligeramente abullonadas, look femenino y moderno."
+    },
+    "robe_chemise_oversize_balenciaga": {
+        "name": "Vestido camisero oversize Balenciaga",
+        "description": "Algodón grueso, corte holgado, estilo urbano y chic."
+    },
+    "pantalon_palazzo_laine_max_mara": {
+        "name": "Pantalón palazzo de lana Max Mara",
+        "description": "Corte ancho, talle alto, tejido de lana merino, look sofisticado."
+    },
+    "blazer_satin_saint_laurent": {
+        "name": "Blazer de satén Saint Laurent",
+        "description": "Corte entallado, satén suave, mangas largas, ideal para la noche o la oficina."
+    },
+    "robe_longue_velours_valentino": {
+        "name": "Vestido largo de terciopelo Valentino",
+        "description": "Terciopelo premium, corte fluido, mangas largas, look elegante y lujoso."
+    },
+    "tom_ford_slim_fit_shirt": {
+      "name": "Camisa slim fit de Tom Ford",
+      "description": "Camisa de popelina de algodón, corte ajustado, cuello italiano, botones de nácar, acabado de lujo."
+    },
+    "ralph_lauren_pique_polo": {
+      "name": "Polo de piqué de Ralph Lauren Purple Label",
+      "description": "Polo suave de algodón de primera calidad, corte moderno, logo bordado, cuello reforzado."
+    },
+    "loro_piana_cashmere_turtleneck": {
+      "name": "Jersey de cuello alto de cachemira de Loro Piana",
+      "description": "100% cachemira italiana, punto fino, ultra suave, corte refinado."
+    },
+    "hugo_boss_round_neck_tshirt": {
+      "name": "Camiseta de cuello redondo de Hugo Boss Black",
+      "description": "Camiseta de primera calidad, algodón mercerizado, logo discreto, corte ajustado."
+    },
+    "burberry_stretch_chino_pants": {
+      "name": "Pantalón chino elástico de Burberry",
+      "description": "Chino de algodón elástico, corte moderno, discreto estampado de cuadros en el interior."
+    },
+    "diesel_slim_fit_jeans": {
+      "name": "Vaqueros de corte ajustado de Diesel Black Gold",
+      "description": "Vaqueros elásticos, lavado de primera calidad, detalles metálicos característicos."
+    },
+    "moncler_nylon_bomber": {
+      "name": "Bomber de nailon de Moncler",
+      "description": "Chaqueta ligera acolchada, corte moderno, logo en la manga."
+    },
+    "saint_laurent_leather_jacket_men": {
+      "name": "Chaqueta de cuero de Saint Laurent",
+      "description": "Piel de cordero ultra suave, corte rockero, cremallera plateada YSL."
+    },
+    "giorgio_armani_suit_jacket": {
+      "name": "Chaqueta de traje de Giorgio Armani",
+      "description": "Chaqueta de lana virgen, corte sofisticado, forro de seda."
+    },
+    "zegna_2_piece_suit": {
+      "name": "Traje de 2 piezas de Zegna",
+      "description": "Lana merina italiana, corte ajustado, hombro natural."
+    },
+    "off_white_hoodie": {
+      "name": "Sudadera con capucha de Off-White",
+      "description": "Algodón grueso, motivos de flechas en la espalda, estampado característico."
+    },
+    "fear_of_god_essential_tshirt": {
+      "name": "Camiseta “Essential” de Fear of God Essentials",
+      "description": "Algodón de primera calidad, logo en relieve, corte oversize."
+    },
+    "lacoste_merino_wool_sweater": {
+      "name": "Jersey de lana merina de Lacoste",
+      "description": "Punto fino, cuello redondo, cocodrilo bordado, corte clásico."
+    },
+    "balenciaga_oversize_shirt": {
+      "name": "Camisa oversize de Balenciaga",
+      "description": "Algodón grueso, silueta ancha, marca discreta."
+    },
+    "acne_studios_flannel_overshirt": {
+      "name": "Sobrecamisa de franela de Acne Studios",
+      "description": "Franela suave, corte relajado, bolsillos en el pecho."
+    },
+    "stone_island_cargo_shorts": {
+      "name": "Pantalones cortos cargo de Stone Island",
+      "description": "Tejido resistente, insignia de Stone Island, corte utilitario."
+    },
+    "canada_goose_lightweight_down_jacket": {
+      "name": "Chaqueta de plumas ligera de Canada Goose",
+      "description": "Aislamiento térmico, tejido cortavientos, diseño limpio."
+    },
+    "the_north_face_expedition_parka": {
+      "name": "Parka “Expedition” de The North Face Black Series",
+      "description": "Resistente, impermeable, multibolsillos, capucha ajustable."
+    },
+    "brunello_cucinelli_cashmere_zip_cardigan": {
+      "name": "Cárdigan con cremallera de cachemira de Brunello Cucinelli",
+      "description": "Cachemira extrafina, cremallera metálica, corte elegante."
+    },
+    "max_mara_long_wool_coat": {
+      "name": "Abrigo largo de lana de Max Mara Homme",
+      "description": "Lana cálida, corte largo, cinturón opcional."
+    },
+    "levis_denim_jacket": {
+      "name": "Chaqueta vaquera de Levi's Made & Crafted",
+      "description": "Denim de primera calidad, corte clásico, acabado artesanal."
+    },
+    "dior_homme_tailored_pants": {
+      "name": "Pantalón de sastre de Dior Homme",
+      "description": "Elegante corte cónico, lana fina, aspecto de alta costura."
+    },
+    "versace_silk_shirt": {
+      "name": "Camisa de seda de Versace",
+      "description": "Seda estampada, motivos barrocos, cuello italiano."
+    },
+    "palm_angels_printed_hoodie": {
+      "name": "Sudadera con capucha estampada de Palm Angels",
+      "description": "Algodón grueso, motivo de palmera, corte oversize."
+    },
+    "barbour_quilted_jacket": {
+      "name": "Chaqueta acolchada de Barbour International",
+      "description": "Acolchado de rombos, corte clásico, cuello de terciopelo."
+    },
+    "paul_smith_cable_knit_sweater": {
+      "name": "Jersey de punto de ochos de Paul Smith",
+      "description": "Lana suave, motivo de punto de ochos, acabado en contraste."
+    },
+    "givenchy_logo_tshirt": {
+      "name": "Camiseta con logo de Givenchy",
+      "description": "Logo bordado, algodón de primera calidad, corte recto."
+    },
+    "adidas_gucci_luxury_tracksuit": {
+      "name": "Chándal de lujo de Adidas x Gucci",
+      "description": "Poliéster de primera calidad, rayas de Gucci, corte retro."
+    },
+    "nike_acg_technical_jacket": {
+      "name": "Chaqueta técnica de Nike ACG",
+      "description": "Impermeable, ventilada, corte moderno para exteriores."
+    },
+    "prada_sleeveless_gilet": {
+      "name": "Chaleco sin mangas de Prada",
+      "description": "Nailon de Prada, corte minimalista, logo triangular."
+    },
+    "hugo_boss_long_wool_coat": {
+      "name": "Abrigo largo de lana de Hugo Boss",
+      "description": "Abrigo cruzado de lana cálida, corte elegante, forro de satén, ideal para inviernos fríos."
+    },
+    "moncler_quilted_down_jacket": {
+      "name": "Chaqueta de plumas acolchada de Moncler",
+      "description": "Chaqueta de plumas ligera pero muy cálida, relleno de plumas, capucha extraíble, aspecto premium."
+    },
+    "canada_goose_arctic_parka": {
+      "name": "Parka Arctic de Canada Goose",
+      "description": "Protección extrema contra el frío, capucha con ribete de piel, tejido cortavientos."
+    },
+    "loro_piana_cashmere_coat_men": {
+      "name": "Abrigo de cachemira de Loro Piana (Hombre)",
+      "description": "Cachemira italiana, suavidad excepcional, corte largo de lujo."
+    },
+    "saint_laurent_shearling_jacket": {
+      "name": "Chaqueta de piel de oveja de Saint Laurent",
+      "description": "Piel de oveja, interior de lana de oveja, estilo premium atemporal."
+    },
+    "paul_smith_merino_turtleneck": {
+      "name": "Jersey de cuello alto de lana merina de Paul Smith",
+      "description": "Punto grueso y suave, retención del calor, corte moderno."
+    },
+    "acne_studios_lined_overshirt_men": {
+      "name": "Sobrecamisa forrada de Acne Studios (Hombre)",
+      "description": "Sobrecamisa cálida forrada de sherpa, estilo urbano."
+    },
+    "polo_ralph_lauren_down_vest": {
+      "name": "Chaleco de plumas de Polo Ralph Lauren",
+      "description": "Ligero, cálido, perfecto para superponer sobre un jersey."
+    },
+    "burberry_lined_trench_coat": {
+      "name": "Gabardina forrada de Burberry",
+      "description": "Gabardina icónica de Burberry versión de invierno, forro aislante."
+    },
+    "dior_homme_thick_cable_knit": {
+      "name": "Jersey de punto de ochos grueso de Dior Homme",
+      "description": "Lana gruesa de punto de ochos, estilo chic y moderno."
+    },
+    "tnf_black_series_technical_jacket": {
+      "name": "Chaqueta técnica impermeable de The North Face Black Series",
+      "description": "Diseñada para condiciones extremas, transpirable e impermeable."
+    },
+    "nike_acg_thermal_pants": {
+      "name": "Pantalón térmico de Nike ACG",
+      "description": "Tejido aislante, corte urbano, ideal para temperaturas extremas."
+    },
+    "sandro_double_breasted_pea_coat": {
+      "name": "Caban de lana de doble botonadura de Sandro",
+      "description": "Doble capa, corte militar reinventado."
+    },
+    "armani_exchange_premium_down_jacket": {
+      "name": "Chaqueta de plumas premium de Armani Exchange",
+      "description": "Cálida, ligera, corte ajustado, diseño moderno."
+    },
+    "zegna_velvet_coat": {
+      "name": "Abrigo de terciopelo de Zegna",
+      "description": "Terciopelo grueso italiano, aspecto invernal de ultra lujo."
+    },
+    "max_mara_belted_wool_coat": {
+      "name": "Abrigo largo de lana con cinturón de Max Mara",
+      "description": "Corte elegante, lana suave, cinturón para ceñir la cintura."
+    },
+    "moncler_long_down_jacket_women": {
+      "name": "Chaqueta de plumas larga de Moncler Mujer",
+      "description": "Largo hasta el tobillo, ultra cálida, silueta estilizada."
+    },
+    "loro_piana_cashmere_coat_women": {
+      "name": "Abrigo de cachemira de Loro Piana (Mujer)",
+      "description": "Cachemira premium, suavidad y caída de lujo."
+    },
+    "canada_goose_faux_fur_parka": {
+      "name": "Parka con piel sintética de Canada Goose",
+      "description": "Aislamiento extremo, capucha XL forrada."
+    },
+    "acne_studios_shearling_jacket_women": {
+      "name": "Chaqueta de piel de oveja de Acne Studios (Mujer)",
+      "description": "Piel de oveja y lana de oveja, aspecto invernal chic."
+    },
+    "jacquemus_oversized_wool_sweater": {
+      "name": "Jersey de lana oversize de Jacquemus",
+      "description": "Lana gruesa, corte amplio de tendencia."
+    },
+    "stand_studio_faux_fur_coat": {
+      "name": "Abrigo de piel sintética de Stand Studio",
+      "description": "Piel sintética suave, corte glamuroso."
+    },
+    "prada_short_down_jacket": {
+      "name": "Chaqueta de plumas corta de Prada",
+      "description": "Nailon icónico de Prada, silueta entallada."
+    },
+    "chloe_cashmere_turtleneck": {
+      "name": "Jersey de cuello alto de cachemira de Chloé",
+      "description": "Punto fino de lujo, corte femenino."
+    },
+    "burberry_wool_cape": {
+      "name": "Capa de lana de Burberry",
+      "description": "Capa cálida, interior con motivo de cuadros."
+    },
+    "isabel_marant_quilted_overshirt": {
+      "name": "Sobrecamisa acolchada de Isabel Marant",
+      "description": "Acolchado ligero, estilo casual chic."
+    },
+    "tnf_technical_jacket_women": {
+      "name": "Chaqueta técnica impermeable de The North Face Mujer",
+      "description": "Diseñada para el frío y la lluvia, ligera y cálida."
+    },
+    "maje_thick_wool_skirt": {
+      "name": "Falda de lana gruesa de Maje",
+      "description": "Falda de invierno estructurada, perfecta con botas."
+    },
+    "etro_wool_poncho": {
+      "name": "Poncho de lana de Etro",
+      "description": "Motivos coloridos característicos, lana cálida."
+    },
+    "zara_premium_xxl_puffer_coat": {
+      "name": "Abrigo acolchado XXL de Zara Premium",
+      "description": "Muy cálido, amplio, de tendencia, presupuesto asequible."
+    },
+    "chrono_luxe_watch": {
+      "name": "Reloj de acero inoxidable negro – Chrono Luxe",
+      "description": "Elegante reloj de acero inoxidable negro con esfera de cronógrafo precisa, cristal mineral resistente a los arañazos y correa ajustable. Estilo profesional y duradero."
+    },
+    "hydrosport_watch": {
+      "name": "Reloj deportivo de silicona – HydroSport 5 ATM",
+      "description": "Reloj deportivo con correa de silicona antideslizante, resistente al agua hasta 50 m, pantalla reforzada y funciones básicas. Perfecto para el deporte y la vida cotidiana."
+    },
+    "heritage_watch": {
+      "name": "Reloj de cuero marrón – Heritage Classique",
+      "description": "Modelo atemporal con correa de cuero marrón genuino, esfera sencilla y elegante y mecanismo fiable. Un look chic y sobrio."
+    },
+    "blue_vision_watch": {
+      "name": "Reloj de metal plateado – Blue Vision",
+      "description": "Correa de metal plateado pulido, esfera azul profundo de alta visibilidad, mecanismo de cuarzo. Muy elegante para la oficina."
+    },
+    "urban_tech_watch": {
+      "name": "Reloj digital LED – Urban Tech",
+      "description": "Diseño futurista, pantalla LED clara, carcasa resistente a los golpes. Ideal para un look moderno."
+    },
+    "executive_elite_watch": {
+      "name": "Reloj con esfera de oro rosa – Executive Elite",
+      "description": "Correa de cuero negro de primera calidad, esfera de oro rosa trabajada, caja sólida. Look de alta gama garantizado."
+    },
+    "titan_steel_watch": {
+      "name": "Reloj cronógrafo – Titan Steel Pro",
+      "description": "Reloj masivo con efecto premium, cronógrafo preciso, correa de acero reforzado. Muy resistente y lujoso."
+    },
+    "nordic_luxe_beanie": {
+      "name": "Gorro de lana de punto de ochos negro – Nordic Luxe",
+      "description": "Gorro de lana de primera calidad, motivo de punto de ochos, corte ajustado. Cómodo y elegante."
+    },
+    "winter_essential_beanie": {
+      "name": "Gorro grueso gris – Winter Essential",
+      "description": "Modelo de punto grueso aislante, perfecto para el frío intenso."
+    },
+    "alpine_soft_scarf": {
+      "name": "Bufanda de lana virgen premium – Alpine Soft",
+      "description": "Bufanda larga y suave de lana virgen, agradable sobre la piel y muy cálida."
+    },
+    "winter_shield_snood": {
+      "name": "Snood de forro polar – Winter Shield Premium",
+      "description": "Bufanda de tubo de forro polar ultra suave, calienta al instante."
+    },
+    "urban_knit_beanie": {
+      "name": "Gorro de calle con vuelta – Urban Knit",
+      "description": "Gorro sencillo y moderno, corte de calle con vuelta, muy cómodo."
+    },
+    "tech_gloves": {
+      "name": "Guantes térmicos táctiles – Tech Gloves",
+      "description": "Guantes cálidos compatibles con pantallas táctiles, interior de forro polar suave."
+    },
+    "slimfold_wallet": {
+      "name": "Cartera de cuero genuino – SlimFold Premium",
+      "description": "Cartera de cuero de primera calidad, múltiples compartimentos, diseño fino y elegante."
+    },
+    "executive_bag": {
+      "name": "Bolso bandolera de cuero premium – Executive Bag",
+      "description": "Bolso compacto para teléfono, cartera y accesorios. Cuero resistente y look chic."
+    },
+    "golden_lady_watch": {
+      "name": "Reloj dorado elegante – Golden Lady",
+      "description": "Reloj fino y femenino, delicada correa dorada y esfera minimalista. Muy elegante."
+    },
+    "silver_pure_watch": {
+      "name": "Reloj plateado minimalista – Silver Pure",
+      "description": "Esfera limpia, correa plateada de estilo milanés, ligera y cómoda."
+    },
+    "soft_elegance_watch": {
+      "name": "Reloj de cuero beige – Soft Elegance",
+      "description": "Correa de cuero beige de primera calidad, esfera blanca limpia. Perfecto para un estilo chic natural."
+    },
+    "rose_queen_watch": {
+      "name": "Reloj de oro rosa con malla milanesa – Rose Queen",
+      "description": "Reloj de moda, fina correa de malla, luminoso tono oro rosa."
+    },
+    "cozy_glam_beanie": {
+      "name": "Gorro de lana con pompón de piel sintética – Cozy Glam",
+      "description": "Gorro suave y cálido con un pompón mullido. Muy femenino."
+    },
+    "urban_chic_beanie": {
+      "name": "Gorro largo oversize – Urban Chic",
+      "description": "Estilo urbano, corte largo, muy suave."
+    },
+    "winter_pearl_beanie": {
+      "name": "Gorro de punto con perlas – Winter Pearl",
+      "description": "Adornado con pequeñas perlas elegantes. Look de invierno chic."
+    },
+    "luxe_soft_scarf": {
+      "name": "Bufanda oversize de piel sintética – Luxe Soft",
+      "description": "Muy gruesa, suave y lujosa. Un accesorio glamuroso."
+    },
+    "warm_plush_scarf": {
+      "name": "Bufanda de punto de ochos – Warm Plush",
+      "description": "Textura de punto de ochos suave, calor garantizado."
+    },
+    "elegant_wrap_shawl": {
+      "name": "Chal de invierno con estampado elegante – Elegant Wrap",
+      "description": "Chal largo con estampados discretos, perfecto para atuendos elegantes."
+    },
+    "cashmere_touch_scarf": {
+      "name": "Bufanda de cachemira estampada – Cashmere Touch",
+      "description": "Tejido de cachemira suave, estampados sofisticados."
+    },
+    "lady_warm_gloves": {
+      "name": "Guantes de cuero con forro polar – Lady Warm",
+      "description": "Guantes de cuero flexible con un forro cálido."
+    },
+    "mini_glam_handbag": {
+      "name": "Bolso de mano pequeño y chic – Mini Glam",
+      "description": "Bolso pequeño y elegante, perfecto para la noche o el día."
+    },
+    "shine_drop_earrings": {
+      "name": "Pendientes colgantes plateados – Shine Drop",
+      "description": "Forma fina y brillante, estilo elegante."
+    },
+    "shine_night_clutch": {
+      "name": "Clutch de noche – Shine Night Premium",
+      "description": "Pequeño y elegante clutch con efecto brillante."
+    }
+  }
+}
+
+    

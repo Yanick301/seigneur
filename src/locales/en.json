@@ -1,0 +1,914 @@
+
+{
+  "nav": {
+    "women": "Women",
+    "men": "Men",
+    "clothing": "Clothing",
+    "accessories": "Accessories",
+    "shoes": "Shoes",
+    "ai_stylist": "AI Stylist"
+  },
+  "header": {
+    "toggle_menu": "Toggle menu",
+    "select_language": "Select language",
+    "search": "Search",
+    "favorites": "Favorites",
+    "cart": "Cart"
+  },
+  "user_nav": {
+    "my_account": "My Account",
+    "profile": "Profile",
+    "logout": "Log Out",
+    "login": "Log In",
+    "signup": "Sign Up"
+  },
+  "footer": {
+    "tagline": "Elegant fashion for connoisseurs.",
+    "shop": "Shop",
+    "help": "Help",
+    "contact": "Contact",
+    "order_tracking": "Order Tracking",
+    "returns": "Returns",
+    "faq": "FAQ",
+    "legal": "Legal",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "rights_reserved": "All rights reserved."
+  },
+  "hero": {
+    "title": "Elegance Redefined",
+    "subtitle": "Discover exclusive collections that blend timeless style with modern trends.",
+    "button": "Discover the Collection",
+    "alt": "Model in luxurious clothing"
+  },
+  "philosophy": {
+    "materials": {
+      "title": "Noble Materials",
+      "description": "We select only the finest fabrics, from Italian cashmere to Egyptian cotton, for an unparalleled feel and durability."
+    },
+    "craftsmanship": {
+      "title": "Craftsmanship",
+      "description": "Each piece is the result of exceptional craftsmanship, where traditional techniques meet modern design to ensure a perfect finish."
+    },
+    "exclusivity": {
+      "title": "Exclusivity",
+      "description": "Our limited collections and exclusive pieces guarantee you a unique style that sets you apart."
+    }
+  },
+  "home": {
+    "trending_products": "Trending Products",
+    "trending_description": "The most coveted pieces of the season.",
+    "view_all_products": "View All Products",
+    "new_arrivals": "New Arrivals",
+    "new_arrivals_description": "Explore the latest additions to our collection.",
+    "testimonials": "Testimonials",
+    "testimonials_description": "What our customers say about us.",
+    "maison_menu": {
+      "title": "Maison Menu",
+      "tailoring": {
+        "subtitle": "Sartorial Precision",
+        "title": "Atelier Tailoring",
+        "description": "Architectural suits and sartorial precision.",
+        "cta": "Explore Men"
+      },
+      "couture": {
+        "subtitle": "Maison Lumière",
+        "title": "Couture & Soirée",
+        "description": "Flowing dresses, luminous silks, and contemporary couture.",
+        "cta": "Explore Women"
+      },
+      "accessories": {
+        "subtitle": "Gallery Selection",
+        "title": "Salon Accessories",
+        "description": "Iconic bags, signature perfumes, and modern jewels.",
+        "cta": "Explore Accessories"
+      },
+      "winter": {
+        "subtitle": "Winter Collection",
+        "title": "Winter Season",
+        "description": "Warm coats, soft cashmere, and elegant layers for the cold.",
+        "cta": "Explore Collection"
+      }
+    }
+  },
+  "categories": {
+    "women": "Women",
+    "men": "Men",
+    "clothing": "Clothing",
+    "accessories": "Accessories",
+    "shoes": "Shoes"
+  },
+  "testimonial": {
+    "lena": {
+      "name": "Lena S.",
+      "quote": "Exceptional quality and unparalleled style. EZENTIALS has become my go-to for luxury fashion."
+    },
+    "felix": {
+      "name": "Felix K.",
+      "quote": "Finally, a shop that understands masculine elegance. The cuts are perfect and the materials are very pleasant."
+    },
+    "hannah": {
+      "name": "Hannah W.",
+      "quote": "I ordered a dress for a gala and received a flood of compliments. The customer service is also very responsive."
+    }
+  },
+  "product_card": {
+    "add": "Add",
+    "add_to_favorites": "Add to favorites"
+  },
+  "product_grid": {
+    "no_products": "No products found."
+  },
+  "search": {
+    "title": "Search Products",
+    "placeholder": "Search for a blazer, a dress...",
+    "no_results": "No results found for your search."
+  },
+  "products_page": {
+    "title": "All Collections",
+    "description": "Browse our complete catalog of luxury clothing and accessories."
+  },
+  "women_page": {
+    "title": "Women's Collection",
+    "description": "Elegance and sophistication for the modern woman."
+  },
+  "men_page": {
+    "title": "Men's Collection",
+    "description": "Style and elegance for the modern man."
+  },
+  "clothing_page": {
+    "title": "Clothing",
+    "description": "Discover our selection of premium clothing."
+  },
+  "accessories_page": {
+    "title": "Accessories",
+    "description": "The final touch for a perfect style."
+  },
+  "shoes_page": {
+    "title": "Shoes",
+    "description": "Complete your look with our selection of luxury footwear."
+  },
+  "winter_page": {
+    "title": "Winter Collection",
+    "description": "Wrap up in elegance with our selection of coats, sweaters and warm accessories."
+  },
+  "cart_page": {
+    "title": "Your Cart",
+    "description": "Review the items in your cart before proceeding to checkout.",
+    "empty_message": "Your cart is currently empty.",
+    "continue_shopping": "Continue Shopping",
+    "items_placeholder": "List of cart items here...",
+    "proceed_to_checkout": "Proceed to Checkout",
+    "login_prompt_title": "Almost there!",
+    "login_prompt_desc_1": "Please",
+    "login_prompt_link": "log in",
+    "login_prompt_desc_2": "or create an account to proceed to checkout."
+  },
+  "cart_sheet": {
+    "shipping_notice": "Shipping and taxes calculated at checkout.",
+    "view_cart": "View Cart",
+    "continue_shopping": "Continue Shopping"
+  },
+  "checkout_page": {
+    "title": "Checkout",
+    "description": "Complete your order securely.",
+    "coming_soon": "The checkout process is currently under construction.",
+    "shipping_address": "Shipping Address",
+    "full_name": "Full Name",
+    "full_name_placeholder": "John Doe",
+    "address": "Address",
+    "address_placeholder": "123 Main Street",
+    "city": "City",
+    "zip_code": "ZIP Code",
+    "country": "Country",
+    "payment_details": "Payment Details",
+    "card_number": "Card Number",
+    "expiry_date": "Expiry Date",
+    "cvc": "CVC",
+    "order_summary": "Order Summary",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "free": "Free",
+    "total": "Total",
+    "pay_now": "Pay Securely Now",
+    "secure_payment": "Secure payment with Stripe."
+  },
+  "favorites_page": {
+    "title": "My Favorites",
+    "description": "Your personal selection of items.",
+    "empty_title": "Your wishlist is empty",
+    "empty_message": "Add items you love to save them here.",
+    "discover_button": "Discover Our Products"
+  },
+  "orders_page": {
+    "title": "My Orders",
+    "description": "Check the history of your orders.",
+    "no_orders": "You have not placed any orders yet.",
+    "order_id": "Order",
+    "quantity": "Quantity"
+  },
+  "profile_page": {
+    "title": "Profile",
+    "description": "Manage your account information.",
+    "coming_soon": "Profile management will be available soon.",
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "save_button": "Save Changes",
+    "update_success_title": "Profile Updated",
+    "update_success_desc": "Your information has been saved successfully."
+  },
+  "account_layout": {
+    "title": "My Account",
+    "profile": "Profile",
+    "orders": "My Orders",
+    "favorites": "My Favorites",
+    "verification_required_title": "Email Verification Required",
+    "verification_required_desc": "Please verify your email address to access your account. A verification link has been sent to your inbox."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Find answers to your most common questions.",
+    "shipping": {
+      "question": "What are the shipping options?",
+      "answer": "We offer free standard shipping (3-5 business days) on all orders. Express shipping (1-2 business days) is available for an additional fee."
+    },
+    "returns": {
+      "question": "How can I return an item?",
+      "answer": "You can return any item free of charge within 30 days of receipt. Please visit our returns portal to start the process."
+    },
+    "sizing": {
+      "question": "How do I find my right size?",
+      "answer": "Each product page includes a detailed size guide with specific measurements. If you are unsure, do not hesitate to contact our customer service for a personal consultation."
+    },
+    "care": {
+      "question": "How do I care for my items?",
+      "answer": "Care instructions are available on the label of each item and in the 'Details & Care' section on the product page. For delicate materials like cashmere or silk, we recommend professional dry cleaning."
+    },
+    "contact": {
+      "question": "How can I contact you?",
+      "answer": "Our customer service team is available by email at ezcentials@gmail.com or through our contact form. We strive to respond to all inquiries within 24 hours."
+    }
+  },
+  "contact_page": {
+    "title": "Contact Us",
+    "description": "We are here to help. Do not hesitate to contact us with any questions or comments.",
+    "form_title": "Send us a message",
+    "name_label": "Your Name",
+    "email_label": "Your Email",
+    "message_label": "Your Message",
+    "send_button": "Send Message",
+    "toast_success_title": "Message Sent",
+    "toast_success_desc": "Thank you for contacting us. We will get back to you soon."
+  },
+  "recently_viewed": {
+    "title": "Recently Viewed"
+  },
+  "product_page": {
+    "reviews_count": "reviews",
+    "color": "Color",
+    "select_color": "Select color",
+    "size": "Size",
+    "add_to_cart": "Add to Cart",
+    "add_to_favorites": "Add to favorites",
+    "favorited": "Favorited",
+    "favorite": "Favorite",
+    "out_of_stock": "Out of Stock",
+    "details_care": "Details & Care",
+    "default_details": "Composition: 80% Satin, 20% Silk. Hand wash only. Do not tumble dry.",
+    "shipping_returns": "Shipping & Returns",
+    "shipping_details": "Free standard shipping within 3-5 business days. Free returns within 30 days.",
+    "customer_reviews": "Customer Reviews",
+    "what_customers_say": "What our customers say",
+    "cancel_review": "Cancel",
+    "write_review": "Write a review",
+    "share_opinion": "Share your opinion",
+    "your_name": "Your name",
+    "name_placeholder": "e.g., John Doe",
+    "your_rating": "Your rating",
+    "your_comment": "Your comment",
+    "comment_placeholder": "Describe your experience...",
+    "submit_review": "Submit review",
+    "be_the_first_review": "Be the first to leave a review for this product!",
+    "toast": {
+      "favorite_added_title": "Added to favorites",
+      "favorite_added_desc": "has been added to your favorites list.",
+      "favorite_removed_title": "Removed from favorites",
+      "favorite_removed_desc": "has been removed from your favorites list.",
+      "review_submitted_title": "Review submitted",
+      "review_submitted_desc": "Thank you for sharing your experience.",
+      "login_for_review_title": "Login Required",
+      "login_for_review_desc": "You must be logged in to leave a review."
+    }
+  },
+  "login_form": {
+    "title": "Log In",
+    "description": "Enter your email below to log in to your account.",
+    "error_title": "Login Error",
+    "password": "Password",
+    "submit_button": "Log In",
+    "forgot_password": "Forgot your password?",
+    "no_account": "Don't have an account?",
+    "signup_link": "Sign up",
+    "password_reset_error_title": "Password Reset Error",
+    "password_reset_error_desc": "Please enter a valid email address.",
+    "password_reset_success_title": "Password Reset Email Sent",
+    "password_reset_success_desc": "Check your inbox for further instructions.",
+    "google_signin": "Sign in with Google",
+    "or_continue_with": "Or continue with"
+  },
+  "signup_form": {
+    "title": "Sign Up",
+    "description": "Create an account to enjoy a personalized experience.",
+    "error_title": "Sign Up Error",
+    "full_name": "Full Name",
+    "full_name_placeholder": "First Last",
+    "password": "Password",
+    "submit_button": "Create Account",
+    "already_have_account": "Already have an account?",
+    "login_link": "Log in",
+    "success_title": "Account created successfully",
+    "success_description": "A verification email has been sent. Please check your inbox (or the terminal console in dev mode).",
+    "error_email_in_use": "This email address is already in use.",
+    "error_generic": "An error occurred while creating the account.",
+    "google_signup": "Sign up with Google"
+  },
+  "ai_stylist": {
+    "title": "Your Personal AI Stylist",
+    "description": "Describe your style, and we'll curate a custom selection for you, inspired by your browsing habits.",
+    "form_label": "What are your current style preferences and desires?",
+    "form_placeholder": "e.g., I like a minimalist style, neutral colors, and natural materials like linen and cotton. I'm looking for an outfit for a summer wedding...",
+    "button_text": "Get My Recommendations",
+    "error_title": "Error",
+    "error_message": "An error occurred while generating recommendations.",
+    "results_title": "Our Suggestions For You",
+    "browsing_history_default": "The user has no browsing history.",
+    "browsing_history_viewed": "Recently viewed products: {{products}}.",
+    "browsing_history_favorites": "Favorite products: {{products}}."
+  },
+  "privacy_policy": {
+    "title": "Privacy Policy",
+    "last_updated": "Last updated: May 24, 2024",
+    "introduction": {
+      "title": "Introduction",
+      "content": "Welcome to EZENTIALS. We respect your privacy and are committed to protecting your personal data. This privacy policy will inform you as to how we look after your personal data when you visit our website."
+    },
+    "data_collected": {
+      "title": "Data We Collect About You",
+      "content": "We may collect, use, store and transfer different kinds of personal data about you which we have grouped together as follows: Identity Data, Contact Data, Financial Data, Transaction Data, Technical Data, Profile Data, and Usage Data."
+    },
+    "data_usage": {
+      "title": "How We Use Your Personal Data",
+      "content": "We will only use your personal data to provide and improve our services, process your orders, manage your account, personalize your experience on our site, and to communicate with you."
+    },
+    "data_sharing": {
+      "title": "Data Sharing",
+      "content": "We may share your personal data with third parties for specific purposes, such as payment processors and delivery partners. We do not share your data with third parties for marketing purposes without your express consent."
+    },
+    "cookies": {
+      "title": "Cookies",
+      "content": "Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site."
+    },
+    "security": {
+      "title": "Data Security",
+      "content": "We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed."
+    },
+    "user_rights": {
+      "title": "Your Legal Rights",
+      "content": "Under certain circumstances, you have rights under data protection laws in relation to your personal data, including the right to access, correct, erase, restrict processing, object to processing, and data portability."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "content": "If you have any questions about this privacy policy, please contact us at ezcentials@gmail.com."
+    }
+  },
+  "terms_of_service": {
+    "title": "Terms of Service",
+    "last_updated": "Last updated: May 24, 2024",
+    "agreement": {
+      "title": "Agreement to Terms",
+      "content": "By accessing or using our Service, you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service."
+    },
+    "accounts": {
+      "title": "Accounts",
+      "content": "When you create an account with us, you must provide us with information that is accurate, complete, and current at all times. Failure to do so constitutes a breach of the Terms, which may result in immediate termination of your account on our Service."
+    },
+    "products": {
+      "title": "Products",
+      "content": "We have made every effort to display as accurately as possible the colors and images of our products that appear at the store. We cannot guarantee that your computer monitor's display of any color will be accurate. All descriptions of products or product pricing are subject to change at any time without notice, at our sole discretion."
+    },
+    "payments": {
+      "title": "Payments",
+      "content": "We reserve the right to refuse any order you place with us. We may, in our sole discretion, limit or cancel quantities purchased per person, per household or per order. In the event that we make a change to or cancel an order, we may attempt to notify you by contacting the e-mail and/or billing address/phone number provided at the time the order was made."
+    },
+    "intellectual_property": {
+      "title": "Intellectual Property",
+      "content": "The Service and its original content, features and functionality are and will remain the exclusive property of EZENTIALS and its licensors. The Service is protected by copyright, trademark, and other laws of both the Country and foreign countries."
+    },
+    "limitation_of_liability": {
+      "title": "Limitation Of Liability",
+      "content": "In no event shall EZENTIALS, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses."
+    },
+    "governing_law": {
+      "title": "Governing Law",
+      "content": "These Terms shall be governed and construed in accordance with the laws of the Country, without regard to its conflict of law provisions."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "content": "If you have any questions about these Terms, please contact us at legal@ezentials.com."
+    }
+  },
+  "filters": {
+    "sort_by": "Sort by",
+    "newest": "Newest",
+    "price_asc": "Price: Low to High",
+    "price_desc": "Price: High to Low",
+    "categories": "Categories",
+    "price": "Price",
+    "sizes": "Sizes",
+    "colors": "Colors"
+  },
+  "products": {
+    "robe_midi_soie_gucci": {
+        "name": "Gucci Silk Midi Dress",
+        "description": "Flowing silk dress with print, midi length, round neck, light long sleeves, ideal for evening or elegant event."
+    },
+    "blazer_croise_balmain": {
+        "name": "Balmain Crossed Blazer",
+        "description": "Structured blazer in wool blend, pronounced shoulder, gold buttons, chic and modern look."
+    },
+    "pull_col_roule_cachemire_loro_piana_femme": {
+        "name": "Loro Piana Cashmere Turtleneck",
+        "description": "Soft and thick knit, fitted cut, ideal for cold days."
+    },
+    "pantalon_large_laine_max_mara": {
+        "name": "Max Mara Wide-Leg Wool Pants",
+        "description": "Flowing cut, high waist, merino wool fabric, sophisticated look."
+    },
+    "jean_slim_premium_diesel": {
+        "name": "Diesel Premium Slim Jeans",
+        "description": "Stretch denim, fitted cut, high-end finish."
+    },
+    "chemisier_soie_imprimee_saint_laurent": {
+        "name": "Saint Laurent Printed Silk Blouse",
+        "description": "Flowing silk, subtle patterns, classic collar and long sleeves, very elegant."
+    },
+    "robe_courte_laine_prada": {
+        "name": "Prada Short Wool Dress",
+        "description": "Winter dress, straight cut, thick wool fabric, long sleeves, comfortable and chic."
+    },
+    "manteau_long_cachemire_max_mara": {
+        "name": "Max Mara Long Cashmere Coat",
+        "description": "Elegant cut, integrated belt, soft and warm wool."
+    },
+    "veste_courte_matelassee_moncler": {
+        "name": "Moncler Short Quilted Jacket",
+        "description": "Short down jacket, warm and light, casual chic style."
+    },
+    "pull_oversize_torsade_chloe": {
+        "name": "Chloé Oversized Cable-Knit Sweater",
+        "description": "Thick knit, wide cut, comfort and style."
+    },
+    "jupe_crayon_laine_hugo_boss": {
+        "name": "Hugo Boss Wool Pencil Skirt",
+        "description": "High waist, premium wool, elegant cut for office or evening."
+    },
+    "robe_longue_plissee_valentino": {
+        "name": "Valentino Long Pleated Dress",
+        "description": "Flowing fabric, delicate pleating, long sleeves, romantic look."
+    },
+    "chemise_coton_premium_burberry": {
+        "name": "Burberry Premium Cotton Shirt",
+        "description": "Thick cotton, classic cut, discreet logo, perfect for work or casual chic."
+    },
+    "robe_portefeuille_soie_dvf": {
+        "name": "Diane von Fürstenberg Silk Wrap Dress",
+        "description": "Flowing fabric, flattering wrap cut, 3/4 sleeves, timeless look."
+    },
+    "pantalon_tailleur_dior_femme": {
+        "name": "Dior Women's Tailored Pants",
+        "description": "Elegant straight cut, wool blend fabric, couture look."
+    },
+    "pull_col_bateau_ralph_lauren": {
+        "name": "Ralph Lauren Boat Neck Sweater",
+        "description": "Merino wool, classic cut, high-end finish, ideal for winter."
+    },
+    "cardigan_long_cachemire_cucinelli": {
+        "name": "Brunello Cucinelli Long Cashmere Cardigan",
+        "description": "Ultra-soft, long cut, refined metal buttons."
+    },
+    "robe_asymetrique_givenchy": {
+        "name": "Givenchy Asymmetrical Dress",
+        "description": "Original cut, flowing fabric, long sleeve, modern look."
+    },
+    "blouse_satinee_stella_mccartney": {
+        "name": "Stella McCartney Satin Blouse",
+        "description": "Soft satin, balloon sleeves, round neck, feminine and refined style."
+    },
+    "combinaison_pantalon_balenciaga": {
+        "name": "Balenciaga Jumpsuit",
+        "description": "Straight cut, premium fabric, minimalist and chic look."
+    },
+    "manteau_oversize_acne_studios": {
+        "name": "Acne Studios Oversized Coat",
+        "description": "Wide cut, wool blend, long sleeves, casual luxury style."
+    },
+    "robe_pull_cachemire_max_mara": {
+        "name": "Max Mara Cashmere Sweater Dress",
+        "description": "Thick knit, fitted cut, long sleeves, comfort and elegance."
+    },
+    "pantalon_cuir_saint_laurent": {
+        "name": "Saint Laurent Leather Pants",
+        "description": "Premium lambskin, slim fit, rock-chic look."
+    },
+    "jupe_plissee_midi_valentino": {
+        "name": "Valentino Midi Pleated Skirt",
+        "description": "Lightweight fabric, delicate pleating, high waist, guaranteed elegance."
+    },
+    "tshirt_brode_logo_gucci": {
+        "name": "Gucci Embroidered Logo T-shirt",
+        "description": "Premium cotton, discreet embroidered logo, fitted cut."
+    },
+    "pull_col_bateau_manches_ballon_chloe": {
+        "name": "Chloé Boat Neck Sweater with Balloon Sleeves",
+        "description": "Fine wool, slightly puffy sleeves, feminine and modern look."
+    },
+    "robe_chemise_oversize_balenciaga": {
+        "name": "Balenciaga Oversized Shirt Dress",
+        "description": "Thick cotton, loose cut, urban and chic style."
+    },
+    "pantalon_palazzo_laine_max_mara": {
+        "name": "Max Mara Wool Palazzo Pants",
+        "description": "Wide cut, high waist, merino wool fabric, sophisticated look."
+    },
+    "blazer_satin_saint_laurent": {
+        "name": "Saint Laurent Satin Blazer",
+        "description": "Fitted cut, soft satin, long sleeves, ideal for evening or office."
+    },
+    "robe_longue_velours_valentino": {
+        "name": "Valentino Long Velvet Dress",
+        "description": "Premium velvet, flowing cut, long sleeves, elegant and luxurious look."
+    },
+    "tom_ford_slim_fit_shirt": {
+      "name": "Tom Ford Slim Fit Shirt",
+      "description": "Cotton poplin shirt, slim fit, Italian collar, mother-of-pearl buttons, luxury finish."
+    },
+    "ralph_lauren_pique_polo": {
+      "name": "Ralph Lauren Purple Label Piqué Polo",
+      "description": "Soft polo in premium cotton, modern cut, embroidered logo, reinforced collar."
+    },
+    "loro_piana_cashmere_turtleneck": {
+      "name": "Loro Piana Cashmere Turtleneck",
+      "description": "100% Italian cashmere, fine knit, ultra-soft, refined cut."
+    },
+    "hugo_boss_round_neck_tshirt": {
+      "name": "Hugo Boss Black Round Neck T-shirt",
+      "description": "Premium T-shirt, mercerized cotton, discreet logo, slim fit."
+    },
+    "burberry_stretch_chino_pants": {
+      "name": "Burberry Stretch Chino Pants",
+      "description": "Chino in elasticated cotton, modern cut, discreet check pattern inside."
+    },
+    "diesel_slim_fit_jeans": {
+      "name": "Diesel Black Gold Slim Fit Jeans",
+      "description": "Stretch jeans, premium wash, signature metal details."
+    },
+    "moncler_nylon_bomber": {
+      "name": "Moncler Nylon Bomber Jacket",
+      "description": "Lightweight padded jacket, modern cut, logo on the sleeve."
+    },
+    "saint_laurent_leather_jacket_men": {
+      "name": "Saint Laurent Leather Jacket",
+      "description": "Ultra-soft lambskin, rock cut, YSL silver zip."
+    },
+    "giorgio_armani_suit_jacket": {
+      "name": "Giorgio Armani Suit Jacket",
+      "description": "Jacket in virgin wool, sophisticated cut, silk lining."
+    },
+    "zegna_2_piece_suit": {
+      "name": "Zegna 2-piece Suit",
+      "description": "Italian merino wool, slim fit, natural shoulder."
+    },
+    "off_white_hoodie": {
+      "name": "Off-White Hoodie",
+      "description": "Thick cotton, arrow motifs on the back, signature print."
+    },
+    "fear_of_god_essential_tshirt": {
+      "name": "Fear of God Essentials 'Essential' T-shirt",
+      "description": "Premium cotton, embossed logo, oversized cut."
+    },
+    "lacoste_merino_wool_sweater": {
+      "name": "Lacoste Merino Wool Sweater",
+      "description": "Fine knit, round neck, embroidered crocodile, classic cut."
+    },
+    "balenciaga_oversize_shirt": {
+      "name": "Balenciaga Oversize Shirt",
+      "description": "Thick cotton, wide silhouette, discreet branding."
+    },
+    "acne_studios_flannel_overshirt": {
+      "name": "Acne Studios Flannel Overshirt",
+      "description": "Soft flannel, relaxed cut, chest pockets."
+    },
+    "stone_island_cargo_shorts": {
+      "name": "Stone Island Cargo Shorts",
+      "description": "Durable fabric, Stone Island badge, utility cut."
+    },
+    "canada_goose_lightweight_down_jacket": {
+      "name": "Canada Goose Lightweight Down Jacket",
+      "description": "Thermal insulation, windproof fabric, clean design."
+    },
+    "the_north_face_expedition_parka": {
+      "name": "The North Face Black Series 'Expedition' Parka",
+      "description": "Durable, waterproof, multi-pockets, adjustable hood."
+    },
+    "brunello_cucinelli_cashmere_zip_cardigan": {
+      "name": "Brunello Cucinelli Cashmere Zip Cardigan",
+      "description": "Extra-fine cashmere, metal zip, elegant cut."
+    },
+    "max_mara_long_wool_coat": {
+      "name": "Max Mara Homme Long Wool Coat",
+      "description": "Warm wool, long cut, optional belt."
+    },
+    "levis_denim_jacket": {
+      "name": "Levi's Made & Crafted Denim Jacket",
+      "description": "Premium denim, classic cut, artisanal finish."
+    },
+    "dior_homme_tailored_pants": {
+      "name": "Dior Homme Tailored Pants",
+      "description": "Elegant tapered cut, fine wool, couture look."
+    },
+    "versace_silk_shirt": {
+      "name": "Versace Silk Shirt",
+      "description": "Printed silk, baroque patterns, Italian collar."
+    },
+    "palm_angels_printed_hoodie": {
+      "name": "Palm Angels Printed Hoodie",
+      "description": "Thick cotton, palm tree motif, oversized cut."
+    },
+    "barbour_quilted_jacket": {
+      "name": "Barbour International Quilted Jacket",
+      "description": "Diamond quilting, classic cut, velvet collar."
+    },
+    "paul_smith_cable_knit_sweater": {
+      "name": "Paul Smith Cable-Knit Sweater",
+      "description": "Soft wool, cable-knit pattern, contrasting finish."
+    },
+    "givenchy_logo_tshirt": {
+      "name": "Givenchy Logo T-shirt",
+      "description": "Embroidered logo, premium cotton, straight cut."
+    },
+    "adidas_gucci_luxury_tracksuit": {
+      "name": "Adidas x Gucci Luxury Tracksuit",
+      "description": "Premium polyester, Gucci stripes, retro cut."
+    },
+    "nike_acg_technical_jacket": {
+      "name": "Nike ACG Technical Jacket",
+      "description": "Waterproof, ventilated, modern outdoor cut."
+    },
+    "prada_sleeveless_gilet": {
+      "name": "Prada Sleeveless Gilet",
+      "description": "Prada nylon, minimalist cut, triangle logo."
+    },
+    "hugo_boss_long_wool_coat": {
+      "name": "Hugo Boss Long Wool Coat",
+      "description": "Double-breasted coat in warm wool, elegant cut, satin lining, ideal for cold winters."
+    },
+    "moncler_quilted_down_jacket": {
+      "name": "Moncler Quilted Down Jacket",
+      "description": "Lightweight but very warm down jacket, feather padding, removable hood, premium look."
+    },
+    "canada_goose_arctic_parka": {
+      "name": "Canada Goose Arctic Parka",
+      "description": "Extreme cold protection, fur-trimmed hood, windproof fabric."
+    },
+    "loro_piana_cashmere_coat_men": {
+      "name": "Loro Piana Cashmere Coat (Men)",
+      "description": "Italian cashmere, exceptional softness, luxurious long cut."
+    },
+    "saint_laurent_shearling_jacket": {
+      "name": "Saint Laurent Shearling Jacket",
+      "description": "Reversed leather, sheep's wool interior, timeless premium style."
+    },
+    "paul_smith_merino_turtleneck": {
+      "name": "Paul Smith Merino Wool Turtleneck",
+      "description": "Thick, soft knit, heat-retaining, modern cut."
+    },
+    "acne_studios_lined_overshirt_men": {
+      "name": "Acne Studios Lined Overshirt (Men)",
+      "description": "Warm sherpa-lined overshirt, urban style."
+    },
+    "polo_ralph_lauren_down_vest": {
+      "name": "Polo Ralph Lauren Down Vest",
+      "description": "Lightweight, warm, perfect for layering over a sweater."
+    },
+    "burberry_lined_trench_coat": {
+      "name": "Burberry Lined Trench Coat",
+      "description": "Iconic Burberry trench winter version, insulating lining."
+    },
+    "dior_homme_thick_cable_knit": {
+      "name": "Dior Homme Thick Cable-Knit Sweater",
+      "description": "Thick cable-knit wool, chic and modern style."
+    },
+    "tnf_black_series_technical_jacket": {
+      "name": "The North Face Black Series Technical Waterproof Jacket",
+      "description": "Designed for extreme conditions, breathable and waterproof."
+    },
+    "nike_acg_thermal_pants": {
+      "name": "Nike ACG Thermal Pants",
+      "description": "Insulating fabric, street cut, ideal for harsh temperatures."
+    },
+    "sandro_double_breasted_pea_coat": {
+      "name": "Sandro Double-Breasted Wool Pea Coat",
+      "description": "Double thickness, revisited military cut."
+    },
+    "armani_exchange_premium_down_jacket": {
+      "name": "Armani Exchange Premium Down Jacket",
+      "description": "Warm, lightweight, fitted cut, modern design."
+    },
+    "zegna_velvet_coat": {
+      "name": "Zegna Velvet Coat",
+      "description": "Thick Italian velvet, ultra-luxe winter look."
+    },
+    "max_mara_belted_wool_coat": {
+      "name": "Max Mara Belted Long Wool Coat",
+      "description": "Elegant cut, soft wool, waist-cinching belt."
+    },
+    "moncler_long_down_jacket_women": {
+      "name": "Moncler Long Down Jacket (Women)",
+      "description": "Ankle-length, ultra-warm, slim silhouette."
+    },
+    "loro_piana_cashmere_coat_women": {
+      "name": "Loro Piana Cashmere Coat (Women)",
+      "description": "Premium cashmere, softness, and luxurious drape."
+    },
+    "canada_goose_faux_fur_parka": {
+      "name": "Canada Goose Faux Fur Parka",
+      "description": "Extreme insulation, XL lined hood."
+    },
+    "acne_studios_shearling_jacket_women": {
+      "name": "Acne Studios Shearling Jacket (Women)",
+      "description": "Reversed leather and sheep's wool, chic winter look."
+    },
+    "jacquemus_oversized_wool_sweater": {
+      "name": "Jacquemus Oversized Wool Sweater",
+      "description": "Thick wool, trendy wide cut."
+    },
+    "stand_studio_faux_fur_coat": {
+      "name": "Stand Studio Faux Fur Coat",
+      "description": "Soft faux fur, glamorous cut."
+    },
+    "prada_short_down_jacket": {
+      "name": "Prada Short Down Jacket",
+      "description": "Iconic Prada nylon, cinched silhouette."
+    },
+    "chloe_cashmere_turtleneck": {
+      "name": "Chloé Cashmere Turtleneck",
+      "description": "Fine luxury knit, feminine cut."
+    },
+    "burberry_wool_cape": {
+      "name": "Burberry Wool Cape",
+      "description": "Warm cape, interior check pattern."
+    },
+    "isabel_marant_quilted_overshirt": {
+      "name": "Isabel Marant Quilted Overshirt",
+      "description": "Lightweight quilting, casual chic style."
+    },
+    "tnf_technical_jacket_women": {
+      "name": "The North Face Technical Waterproof Jacket (Women)",
+      "description": "Designed for cold and rain, lightweight and warm."
+    },
+    "maje_thick_wool_skirt": {
+      "name": "Maje Thick Wool Skirt",
+      "description": "Structured winter skirt, perfect with boots."
+    },
+    "etro_wool_poncho": {
+      "name": "Etro Wool Poncho",
+      "description": "Signature colorful patterns, warm wool."
+    },
+    "zara_premium_xxl_puffer_coat": {
+      "name": "Zara Premium XXL Puffer Coat",
+      "description": "Very warm, wide, trendy, accessible budget."
+    },
+    "chrono_luxe_watch": {
+      "name": "Chrono Luxe Black Stainless Steel Watch",
+      "description": "Elegant black stainless steel watch with a precise chronograph dial, scratch-resistant mineral glass, and adjustable bracelet. Professional and durable style."
+    },
+    "hydrosport_watch": {
+      "name": "HydroSport 5 ATM Sport Silicone Watch",
+      "description": "Sports watch with a non-slip silicone strap, 50m water resistance, reinforced screen, and basic functions. Perfect for sports and daily life."
+    },
+    "heritage_watch": {
+      "name": "Heritage Classique Brown Leather Watch",
+      "description": "Timeless model with a genuine brown leather strap, simple and elegant dial, and reliable mechanism. A chic and sober look."
+    },
+    "blue_vision_watch": {
+      "name": "Blue Vision Silver Metal Watch",
+      "description": "Polished silver metal bracelet, deep blue high-visibility dial, quartz mechanism. Very classy for the office."
+    },
+    "urban_tech_watch": {
+      "name": "Urban Tech Digital LED Watch",
+      "description": "Futuristic design, clear LED display, shock-resistant case. Ideal for a modern look."
+    },
+    "executive_elite_watch": {
+      "name": "Executive Elite Rose Gold Dial Watch",
+      "description": "Premium black leather strap, crafted rose gold dial, solid case. Guaranteed high-end look."
+    },
+    "titan_steel_watch": {
+      "name": "Titan Steel Pro Chronograph Watch",
+      "description": "Massive premium-effect watch, precise chronograph, reinforced steel bracelet. Very resistant and luxurious."
+    },
+    "nordic_luxe_beanie": {
+      "name": "Nordic Luxe Black Cable-Knit Wool Beanie",
+      "description": "Premium wool knit beanie, cable-knit pattern, snug fit. Comfortable and stylish."
+    },
+    "winter_essential_beanie": {
+      "name": "Winter Essential Thick Grey Beanie",
+      "description": "Model in thick, insulating knit, perfect for intense cold."
+    },
+    "alpine_soft_scarf": {
+      "name": "Alpine Soft Premium Virgin Wool Scarf",
+      "description": "Long and soft scarf in virgin wool, pleasant on the skin and very warm."
+    },
+    "winter_shield_snood": {
+      "name": "Winter Shield Premium Fleece Snood",
+      "description": "Ultra-soft fleece tube scarf, warms up instantly."
+    },
+    "urban_knit_beanie": {
+      "name": "Urban Knit Streetwear Cuffed Beanie",
+      "description": "Simple and trendy beanie, street cut with a cuff, very comfortable."
+    },
+    "tech_gloves": {
+      "name": "Tech Gloves Thermal Touchscreen Gloves",
+      "description": "Warm gloves compatible with touch screens, soft fleece interior."
+    },
+    "slimfold_wallet": {
+      "name": "SlimFold Premium Genuine Leather Wallet",
+      "description": "Premium leather wallet, multiple compartments, slim and elegant design."
+    },
+    "executive_bag": {
+      "name": "Executive Bag Premium Leather Crossbody Bag",
+      "description": "Compact bag for phone, wallet, and accessories. Robust leather and chic look."
+    },
+    "golden_lady_watch": {
+      "name": "Golden Lady Elegant Gold Watch",
+      "description": "Fine and feminine watch, delicate gold bracelet, and minimalist dial. Very elegant."
+    },
+    "silver_pure_watch": {
+      "name": "Silver Pure Minimalist Silver Watch",
+      "description": "Clean dial, silver Milanese-style bracelet, light and comfortable."
+    },
+    "soft_elegance_watch": {
+      "name": "Soft Elegance Beige Leather Watch",
+      "description": "Premium beige leather strap, clean white dial. Perfect for a natural chic style."
+    },
+    "rose_queen_watch": {
+      "name": "Rose Queen Rose Gold Milanese Mesh Watch",
+      "description": "Trendy watch, fine mesh bracelet, luminous rose gold tone."
+    },
+    "cozy_glam_beanie": {
+      "name": "Cozy Glam Wool Beanie with Faux Fur Pom-Pom",
+      "description": "Soft and warm beanie with a fluffy pom-pom. Very feminine."
+    },
+    "urban_chic_beanie": {
+      "name": "Urban Chic Long Oversized Beanie",
+      "description": "Urban style, long cut, very soft."
+    },
+    "winter_pearl_beanie": {
+      "name": "Winter Pearl Knitted Beanie",
+      "description": "Adorned with small elegant pearls. Chic winter look."
+    },
+    "luxe_soft_scarf": {
+      "name": "Luxe Soft Oversized Faux Fur Scarf",
+      "description": "Very thick, soft, and luxurious. A glamorous accessory."
+    },
+    "warm_plush_scarf": {
+      "name": "Warm Plush Cable-Knit Scarf",
+      "description": "Soft cable-knit texture, guaranteed warmth."
+    },
+    "elegant_wrap_shawl": {
+      "name": "Elegant Wrap Winter Shawl with Pattern",
+      "description": "Long shawl with discreet patterns, perfect for dressy outfits."
+    },
+    "cashmere_touch_scarf": {
+      "name": "Cashmere Touch Printed Cashmere Scarf",
+      "description": "Soft cashmere fabric, sophisticated patterns."
+    },
+    "lady_warm_gloves": {
+      "name": "Lady Warm Fleece-Lined Leather Gloves",
+      "description": "Supple leather gloves with a warm lining."
+    },
+    "mini_glam_handbag": {
+      "name": "Mini Glam Small Chic Handbag",
+      "description": "Small elegant bag, perfect for evening or day."
+    },
+    "shine_drop_earrings": {
+      "name": "Shine Drop Silver Dangle Earrings",
+      "description": "Fine and shiny shape, classy style."
+    },
+    "shine_night_clutch": {
+      "name": "Shine Night Premium Evening Clutch",
+      "description": "Small elegant clutch with a shiny effect."
+    }
+  }
+}
+
+    

@@ -1,0 +1,914 @@
+
+{
+  "nav": {
+    "women": "レディース",
+    "men": "メンズ",
+    "clothing": "ウェア",
+    "accessories": "アクセサリー",
+    "shoes": "シューズ",
+    "ai_stylist": "AIスタイリスト"
+  },
+  "header": {
+    "toggle_menu": "メニューを開閉",
+    "select_language": "言語を選択",
+    "search": "検索",
+    "favorites": "お気に入り",
+    "cart": "カート"
+  },
+  "user_nav": {
+    "my_account": "マイアカウント",
+    "profile": "プロフィール",
+    "logout": "ログアウト",
+    "login": "ログイン",
+    "signup": "会員登録"
+  },
+  "footer": {
+    "tagline": "本物志向の方へ、エレガントなファッションを。",
+    "shop": "ショップ",
+    "help": "ヘルプ",
+    "contact": "お問い合わせ",
+    "order_tracking": "注文追跡",
+    "returns": "返品",
+    "faq": "よくある質問",
+    "legal": "法務",
+    "terms": "利用規約",
+    "privacy": "プライバシーポリシー",
+    "rights_reserved": "All rights reserved."
+  },
+  "hero": {
+    "title": "再定義されたエレガンス",
+    "subtitle": "時代を超えたスタイルとモダンなトレンドが融合した、特別なコレクションをご覧ください。",
+    "button": "コレクションを見る",
+    "alt": "高級な服を着たモデル"
+  },
+  "philosophy": {
+    "materials": {
+      "title": "高貴な素材",
+      "description": "イタリアのカシミアからエジプト綿まで、最高の生地のみを選び抜き、比類のない肌触りと耐久性を実現しています。"
+    },
+    "craftsmanship": {
+      "title": "職人技",
+      "description": "伝統的な技術とモダンなデザインが出会い、完璧な仕上がりを保証する、卓越した職人技の結晶です。"
+    },
+    "exclusivity": {
+      "title": "限定性",
+      "description": "限定コレクションと特別なアイテムが、あなたを際立たせるユニークなスタイルをお約束します。"
+    }
+  },
+  "home": {
+    "trending_products": "トレンド商品",
+    "trending_description": "今シーズン最も人気のアイテム。",
+    "view_all_products": "すべての商品を見る",
+    "new_arrivals": "新着商品",
+    "new_arrivals_description": "コレクションの最新作をご覧ください。",
+    "testimonials": "お客様の声",
+    "testimonials_description": "お客様からのメッセージをご紹介します。",
+    "maison_menu": {
+      "title": "メゾンメニュー",
+      "tailoring": {
+        "subtitle": "サルトリアルプレシジョン",
+        "title": "アトリエテーラリング",
+        "description": "構築的なスーツとサルトリアルの精度。",
+        "cta": "メンズを見る"
+      },
+      "couture": {
+        "subtitle": "メゾンルミエール",
+        "title": "クチュール＆ソワレ",
+        "description": "流れるようなドレス、輝くシルク、現代的なクチュール。",
+        "cta": "レディースを見る"
+      },
+      "accessories": {
+        "subtitle": "ギャラリーセレクション",
+        "title": "サロンアクセサリー",
+        "description": "アイコニックなバッグ、シグネチャー香水、モダンなジュエリー。",
+        "cta": "アクセサリーを見る"
+      },
+       "winter": {
+        "subtitle": "ウィンターコレクション",
+        "title": "ウィンターシーズン",
+        "description": "暖かいコート、柔らかなカシミア、そして寒さのためのエレガントなレイヤー。",
+        "cta": "コレクションを見る"
+      }
+    }
+  },
+  "categories": {
+    "women": "レディース",
+    "men": "メンズ",
+    "clothing": "ウェア",
+    "accessories": "アクセサリー",
+    "shoes": "シューズ"
+  },
+  "testimonial": {
+    "lena": {
+      "name": "Lena S.",
+      "quote": "卓越した品質と比類のないスタイル。EZENTIALSは私にとって高級ファッションの頼れる場所になりました。"
+    },
+    "felix": {
+      "name": "Felix K.",
+      "quote": "男性のエレガンスを理解してくれる店にやっと出会えました。裁断は完璧で、素材もとても心地よいです。"
+    },
+    "hannah": {
+      "name": "Hannah W.",
+      "quote": "ガラパーティーのためにドレスを注文しましたが、たくさんの賛辞を受けました。カスタマーサービスも非常に responsive です。"
+    }
+  },
+  "product_card": {
+    "add": "追加",
+    "add_to_favorites": "お気に入りに追加"
+  },
+  "product_grid": {
+    "no_products": "商品が見つかりませんでした。"
+  },
+  "search": {
+    "title": "商品を検索",
+    "placeholder": "ブレザー、ドレスなどを検索...",
+    "no_results": "検索結果が見つかりませんでした。"
+  },
+  "products_page": {
+    "title": "すべてのコレクション",
+    "description": "高級衣料品とアクセサリーの完全なカタログをご覧ください。"
+  },
+  "women_page": {
+    "title": "レディースコレクション",
+    "description": "現代女性のためのエレガンスと洗練。"
+  },
+  "men_page": {
+    "title": "メンズコレクション",
+    "description": "現代紳士のためのスタイルとエレガンス。"
+  },
+  "clothing_page": {
+    "title": "ウェア",
+    "description": "プレミアムな衣料品のセレクションをご覧ください。"
+  },
+  "accessories_page": {
+    "title": "アクセサリー",
+    "description": "完璧なスタイルのための最後の仕上げ。"
+  },
+  "shoes_page": {
+    "title": "シューズ",
+    "description": "高級フットウェアのセレクションであなたのルックを完成させましょう。"
+  },
+  "winter_page": {
+    "title": "ウィンターコレクション",
+    "description": "コート、セーター、暖かいアクセサリーのセレクションでエレガントに身を包みましょう。"
+  },
+  "cart_page": {
+    "title": "カート",
+    "description": "チェックアウトに進む前にカート内の商品を確認してください。",
+    "empty_message": "カートは現在空です。",
+    "continue_shopping": "ショッピングを続ける",
+    "items_placeholder": "ここにカート商品のリスト...",
+    "proceed_to_checkout": "チェックアウトに進む",
+    "login_prompt_title": "あと少しです！",
+    "login_prompt_desc_1": "チェックアウトに進むには、",
+    "login_prompt_link": "ログイン",
+    "login_prompt_desc_2": "するか、アカウントを作成してください。"
+  },
+  "cart_sheet": {
+    "shipping_notice": "送料と税金はチェックアウト時に計算されます。",
+    "view_cart": "カートを見る",
+    "continue_shopping": "ショッピングを続ける"
+  },
+  "checkout_page": {
+    "title": "チェックアウト",
+    "description": "ご注文を安全に完了してください。",
+    "coming_soon": "チェックアウト処理は現在構築中です。",
+    "shipping_address": "配送先住所",
+    "full_name": "氏名",
+    "full_name_placeholder": "山田太郎",
+    "address": "住所",
+    "address_placeholder": "東京都千代田区1-1-1",
+    "city": "市区町村",
+    "zip_code": "郵便番号",
+    "country": "国",
+    "payment_details": "支払詳細",
+    "card_number": "カード番号",
+    "expiry_date": "有効期限",
+    "cvc": "CVC",
+    "order_summary": "注文概要",
+    "subtotal": "小計",
+    "shipping": "送料",
+    "free": "無料",
+    "total": "合計",
+    "pay_now": "今すぐ安全に支払う",
+    "secure_payment": "Stripeによる安全な支払い。"
+  },
+  "favorites_page": {
+    "title": "お気に入り",
+    "description": "あなたの個人的なアイテムのセレクション。",
+    "empty_title": "ウィッシュリストは空です",
+    "empty_message": "お気に入りのアイテムを追加して、ここに保存してください。",
+    "discover_button": "商品を探す"
+  },
+  "orders_page": {
+    "title": "ご注文履歴",
+    "description": "ご注文の履歴を確認してください。",
+    "no_orders": "まだ注文がありません。",
+    "order_id": "注文",
+    "quantity": "数量"
+  },
+  "profile_page": {
+    "title": "プロフィール",
+    "description": "アカウント情報を管理します。",
+    "coming_soon": "プロフィール管理は間もなく利用可能になります。",
+    "first_name": "名",
+    "last_name": "姓",
+    "save_button": "変更を保存",
+    "update_success_title": "プロフィールを更新しました",
+    "update_success_desc": "あなたの情報は正常に保存されました。"
+  },
+  "account_layout": {
+    "title": "マイアカウント",
+    "profile": "プロフィール",
+    "orders": "ご注文履歴",
+    "favorites": "お気に入り",
+    "verification_required_title": "メールアドレスの確認が必要です",
+    "verification_required_desc": "アカウントにアクセスするには、メールアドレスを確認してください。確認リンクが受信トレイに送信されました。"
+  },
+  "faq": {
+    "title": "よくある質問",
+    "description": "よくある質問への回答をご覧ください。",
+    "shipping": {
+      "question": "配送オプションは何ですか？",
+      "answer": "すべての注文で標準配送（3-5営業日）を無料で提供しています。追加料金で速達配送（1-2営業日）もご利用いただけます。"
+    },
+    "returns": {
+      "question": "商品を返品するにはどうすればよいですか？",
+      "answer": "受領後30日以内であれば、任何商品を無料で返品できます。返品手続きを開始するには、返品ポータルにアクセスしてください。"
+    },
+    "sizing": {
+      "question": "自分の正しいサイズを見つけるにはどうすればよいですか？",
+      "answer": "各商品ページには、具体的な寸法が記載された詳細なサイズガイドが含まれています。ご不明な場合は、お気軽にカスタマーサービスにお問い合わせください。"
+    },
+    "care": {
+      "question": "商品の手入れ方法は？",
+      "answer": "お手入れ方法は、各商品のラベルと商品ページの「詳細とお手入れ」セクションに記載されています。カシミアやシルクなどのデリケートな素材については、専門のドライクリーニングをお勧めします。"
+    },
+    "contact": {
+      "question": "どうすれば連絡できますか？",
+      "answer": "カスタマーサービスチームは、ezcentials@gmail.com のメールまたはお問い合わせフォームからご連絡いただけます。すべてのお問い合わせに24時間以内に回答するよう努めています。"
+    }
+  },
+  "contact_page": {
+    "title": "お問い合わせ",
+    "description": "私たちは助けるためにここにいます。ご質問やご意見がございましたら、お気軽にお問い合わせください。",
+    "form_title": "メッセージを送る",
+    "name_label": "お名前",
+    "email_label": "メールアドレス",
+    "message_label": "メッセージ",
+    "send_button": "メッセージを送信",
+    "toast_success_title": "メッセージが送信されました",
+    "toast_success_desc": "お問い合わせいただきありがとうございます。すぐにご連絡いたします。"
+  },
+  "recently_viewed": {
+    "title": "最近見た商品"
+  },
+  "product_page": {
+    "reviews_count": "件のレビュー",
+    "color": "カラー",
+    "select_color": "カラーを選択",
+    "size": "サイズ",
+    "add_to_cart": "カートに追加",
+    "add_to_favorites": "お気に入りに追加",
+    "favorited": "お気に入り済み",
+    "favorite": "お気に入り",
+    "out_of_stock": "在庫切れ",
+    "details_care": "詳細とお手入れ",
+    "default_details": "構成：サテン80％、シルク20％。手洗いのみ。タンブル乾燥不可。",
+    "shipping_returns": "配送と返品",
+    "shipping_details": "3-5営業日以内に無料標準配送。30日以内の無料返品。",
+    "customer_reviews": "お客様のレビュー",
+    "what_customers_say": "お客様の声",
+    "cancel_review": "キャンセル",
+    "write_review": "レビューを書く",
+    "share_opinion": "ご意見をお聞かせください",
+    "your_name": "お名前",
+    "name_placeholder": "例：山田太郎",
+    "your_rating": "評価",
+    "your_comment": "コメント",
+    "comment_placeholder": "ご体験を記述してください...",
+    "submit_review": "レビューを送信",
+    "be_the_first_review": "この商品に最初のレビューを残してください！",
+    "toast": {
+      "favorite_added_title": "お気に入りに追加しました",
+      "favorite_added_desc": "がお気に入りリストに追加されました。",
+      "favorite_removed_title": "お気に入りから削除しました",
+      "favorite_removed_desc": "がお気に入りリストから削除されました。",
+      "review_submitted_title": "レビューが送信されました",
+      "review_submitted_desc": "ご意見を共有していただきありがとうございます。",
+      "login_for_review_title": "ログインが必要です",
+      "login_for_review_desc": "レビューを残すにはログインする必要があります。"
+    }
+  },
+  "login_form": {
+    "title": "ログイン",
+    "description": "アカウントにログインするには、以下にメールアドレスを入力してください。",
+    "error_title": "ログインエラー",
+    "password": "パスワード",
+    "submit_button": "ログイン",
+    "forgot_password": "パスワードをお忘れですか？",
+    "no_account": "アカウントをお持ちでないですか？",
+    "signup_link": "会員登録",
+    "password_reset_error_title": "パスワードリセットエラー",
+    "password_reset_error_desc": "有効なメールアドレスを入力してください。",
+    "password_reset_success_title": "パスワードリsetメールを送信しました",
+    "password_reset_success_desc": "受信トレイで詳細な手順を確認してください。",
+    "google_signin": "Googleでサインイン",
+    "or_continue_with": "または"
+  },
+  "signup_form": {
+    "title": "会員登録",
+    "description": "アカウントを作成して、パーソナライズされた体験をお楽しみください。",
+    "error_title": "登録エラー",
+    "full_name": "氏名",
+    "full_name_placeholder": "姓 名",
+    "password": "パスワード",
+    "submit_button": "アカウントを作成",
+    "already_have_account": "すでにアカウントをお持ちですか？",
+    "login_link": "ログイン",
+    "success_title": "アカウントが正常に作成されました",
+    "success_description": "確認メールが送信されました。受信トレイ（または開発モードではターミナルコンソール）を確認してください。",
+    "error_email_in_use": "このメールアドレスは既に使用されています。",
+    "error_generic": "アカウントの作成中にエラーが発生しました。",
+    "google_signup": "Googleで登録"
+  },
+  "ai_stylist": {
+    "title": "あなたのパーソナルAIスタイリスト",
+    "description": "あなたのスタイルを記述すれば、閲覧履歴に基づいてカスタムセレクションをキュレートします。",
+    "form_label": "現在のスタイルの好みや希望は何ですか？",
+    "form_placeholder": "例：ミニマリストスタイル、ニュートラルカラー、リネンやコットンのような天然素材が好きです。夏の結婚式用の服装を探しています...",
+    "button_text": "おすすめを入手する",
+    "error_title": "エラー",
+    "error_message": "おすすめの生成中にエラーが発生しました。",
+    "results_title": "あなたへのおすすめ",
+    "browsing_history_default": "ユーザーには閲覧履歴がありません。",
+    "browsing_history_viewed": "最近閲覧した商品：{{products}}。",
+    "browsing_history_favorites": "お気に入りの商品：{{products}}。"
+  },
+  "privacy_policy": {
+    "title": "プライバシーポリシー",
+    "last_updated": "最終更新日：2024年5月24日",
+    "introduction": {
+      "title": "はじめに",
+      "content": "EZENTIALSへようこそ。当社はお客様のプライバシーを尊重し、個人データを保護することをお約束します。このプライバシーポリシーは、お客様が当社のウェブサイトを訪問する際に、当社がお客様の個人データをどのように取り扱うかについてお知らせするものです。"
+    },
+    "data_collected": {
+      "title": "当社が収集するお客様のデータ",
+      "content": "当社は、お客様に関するさまざまな種類の個人データを収集、使用、保存、転送することがあります。これらは、身元データ、連絡先データ、財務データ、取引データ、技術データ、プロフィールデータ、利用状況データとしてグループ化されています。"
+    },
+    "data_usage": {
+      "title": "お客様の個人データの使用方法",
+      "content": "当社は、お客様の個人データを、当社のサービスの提供と改善、お客様のご注文の処理、お客様のアカウントの管理、当サイトでのお客様の体験のパーソナライズ、およびお客様との連絡のためにのみ使用します。"
+    },
+    "data_sharing": {
+      "title": "データ共有",
+      "content": "当社は、支払い処理業者や配送パートナーなど、特定の目的のために第三者とお客様の個人データを共有することがあります。お客様の明示的な同意なしに、マーケティング目的で第三者とお客様のデータを共有することはありません。"
+    },
+    "cookies": {
+      "title": "クッキー",
+      "content": "当社のウェブサイトは、お客様を当社のウェブサイトの他のユーザーと区別するためにクッキーを使用しています。これにより、お客様が当社のウェブサイトを閲覧する際に良い体験を提供し、また当サイトを改善することができます。"
+    },
+    "security": {
+      "title": "データセキュリティ",
+      "content": "当社は、お客様の個人データが誤って紛失、使用、または不正な方法でアクセス、変更、または開示されるのを防ぐために、適切なセキュリティ対策を講じています。"
+    },
+    "user_rights": {
+      "title": "お客様の法的権利",
+      "content": "特定の状況下では、お客様はデータ保護法に基づき、ご自身の個人データに関する権利を有します。これには、アクセス、修正、消去、処理の制限、処理への異議申し立て、データポータビリティの権利が含まれます。"
+    },
+    "contact": {
+      "title": "お問い合わせ",
+      "content": "このプライバシーポリシーについてご不明な点がございましたら、ezcentials@gmail.com までお問い合わせください。"
+    }
+  },
+  "terms_of_service": {
+    "title": "利用規約",
+    "last_updated": "最終更新日：2024年5月24日",
+    "agreement": {
+      "title": "規約への同意",
+      "content": "当社のサービスにアクセスまたは使用することにより、お客様はこれらの規約に拘束されることに同意するものとします。規約の一部に同意しない場合は、サービスにアクセスすることはできません。"
+    },
+    "accounts": {
+      "title": "アカウント",
+      "content": "当社でアカウントを作成する場合、常に正確、完全、かつ最新の情報を提供する必要があります。これを怠ると、本規約の違反となり、当社のサービス上のお客様のアカウントが直ちに終了する可能性があります。"
+    },
+    "products": {
+      "title": "商品",
+      "content": "当社は、店舗で表示される商品の色や画像をできるだけ正確に表示するよう努めています。お使いのコンピューターモニターの色の表示が正確であることを保証することはできません。商品の説明や価格は、当社の単独の裁量により、予告なくいつでも変更される場合があります。"
+    },
+    "payments": {
+      "title": "支払い",
+      "content": "当社は、お客様が行ういかなる注文も拒否する権利を留保します。当社の単独の裁量により、1人あたり、1世帯あたり、または1注文あたりの購入数量を制限またはキャンセルする場合があります。注文に変更を加えるかキャンセルする場合、注文時に提供された電子メールアドレスおよび/または請求先住所/電話番号に連絡して通知を試みることがあります。"
+    },
+    "intellectual_property": {
+      "title": "知的財産",
+      "content": "本サービスおよびその元のコンテンツ、機能、および機能性は、EZENTIALSおよびそのライセンサーの独占的な財産であり、今後もそうあり続けます。本サービスは、国内法および外国法の両方において、著作権、商標、およびその他の法律によって保護されています。"
+    },
+    "limitation_of_liability": {
+      "title": "責任の制限",
+      "content": "いかなる場合も、EZENTIALS、その取締役、従業員、パートナー、代理店、サプライヤー、または関連会社は、利益、データ、使用、信用、またはその他の無形の損失の損失を含むがこれらに限定されない、間接的、偶発的、特別、結果的、または懲罰的な損害に対して責任を負わないものとします。"
+    },
+    "governing_law": {
+      "title": "準拠法",
+      "content": "本規約は、法の抵触に関する規定に関係なく、国の法律に従って規律され、解釈されるものとします。"
+    },
+    "contact": {
+      "title": "お問い合わせ",
+      "content": "本規約についてご不明な点がございましたら、legal@ezentials.com までお問い合わせください。"
+    }
+  },
+  "filters": {
+    "sort_by": "並べ替え",
+    "newest": "新着順",
+    "price_asc": "価格：安い順",
+    "price_desc": "価格：高い順",
+    "categories": "カテゴリー",
+    "price": "価格",
+    "sizes": "サイズ",
+    "colors": "カラー"
+  },
+  "products": {
+    "robe_midi_soie_gucci": {
+        "name": "グッチ シルクミディドレス",
+        "description": "プリント入りの流れるようなシルクドレス、ミディ丈、ラウンドネック、軽やかな長袖、イブニングやエレガントなイベントに最適。"
+    },
+    "blazer_croise_balmain": {
+        "name": "バルマン クロスブレザー",
+        "description": "ウール混紡の構築的なブレザー、はっきりとした肩、ゴールドのボタン、シックでモダンなルック。"
+    },
+    "pull_col_roule_cachemire_loro_piana_femme": {
+        "name": "ロロピアーナ カシミアタートルネック",
+        "description": "柔らかく厚手のニット、フィットしたカット、寒い日に最適。"
+    },
+    "pantalon_large_laine_max_mara": {
+        "name": "マックスマーラ ワイドレッグウールパンツ",
+        "description": "流れるようなカット、ハイウエスト、メリノウール生地、洗練されたルック。"
+    },
+    "jean_slim_premium_diesel": {
+        "name": "ディーゼル プレミアムスリムジーンズ",
+        "description": "ストレッチデニム、フィットしたカット、高級仕上げ。"
+    },
+    "chemisier_soie_imprimee_saint_laurent": {
+        "name": "サンローラン プリントシルクブラウス",
+        "description": "流れるようなシルク、繊細な柄、クラシックな襟と長袖、非常にエレガント。"
+    },
+    "robe_courte_laine_prada": {
+        "name": "プラダ ショートウールドレス",
+        "description": "冬のドレス、ストレートカット、厚手のウール生地、長袖、快適でシック。"
+    },
+    "manteau_long_cachemire_max_mara": {
+        "name": "マックスマーラ ロングカシミアコート",
+        "description": "エレガントなカット、一体型ベルト、柔らかく暖かいウール。"
+    },
+    "veste_courte_matelassee_moncler": {
+        "name": "モンクレール ショートキルティングジャケット",
+        "description": "ショートダウンジャケット、暖かく軽量、カジュアルシックスタイル。"
+    },
+    "pull_oversize_torsade_chloe": {
+        "name": "クロエ オーバーサイズケーブルニットセーター",
+        "description": "厚手のニット、ワイドカット、快適さとスタイル。"
+    },
+    "jupe_crayon_laine_hugo_boss": {
+        "name": "ヒューゴボス ウールペンシルスカート",
+        "description": "ハイウエスト、プレミアムウール、オフィスや夜の外出にエレガントなカット。"
+    },
+    "robe_longue_plissee_valentino": {
+        "name": "ヴァレンティノ ロングプリーツドレス",
+        "description": "流れるような生地、繊細なプリーツ、長袖、ロマンチックなルック。"
+    },
+    "chemise_coton_premium_burberry": {
+        "name": "バーバリー プレミアムコットンシャツ",
+        "description": "厚手のコットン、クラシックカット、控えめなロゴ、仕事やカジュアルシックに最適。"
+    },
+    "robe_portefeuille_soie_dvf": {
+        "name": "ダイアン・フォン・ファステンバーグ シルクラップドレス",
+        "description": "流れるような生地、美しいラップカット、3/4スリーブ、時代を超越したルック。"
+    },
+    "pantalon_tailleur_dior_femme": {
+        "name": "ディオール レディーステーラードパンツ",
+        "description": "エレガントなストレートカット、ウール混紡生地、クチュールルック。"
+    },
+    "pull_col_bateau_ralph_lauren": {
+        "name": "ラルフローレン ボートネックセーター",
+        "description": "メリノウール、クラシックカット、高級仕上げ、冬に最適。"
+    },
+    "cardigan_long_cachemire_cucinelli": {
+        "name": "ブルネロ・クチネリ ロングカシミアカーディガン",
+        "description": "超ソフト、ロングカット、洗練されたメタルボタン。"
+    },
+    "robe_asymetrique_givenchy": {
+        "name": "ジバンシィ アシンメトリードレス",
+        "description": "独創的なカット、流れるような生地、長袖、モダンなルック。"
+    },
+    "blouse_satinee_stella_mccartney": {
+        "name": "ステラ・マッカートニー サテンブラウス",
+        "description": "ソフトサテン、バルーンスリーブ、ラウンドネック、フェミニンで洗練されたスタイル。"
+    },
+    "combinaison_pantalon_balenciaga": {
+        "name": "バレンシアガ ジャンプスーツ",
+        "description": "ストレートカット、プレミアム生地、ミニマリストでシックなルック。"
+    },
+    "manteau_oversize_acne_studios": {
+        "name": "アクネ ストゥディオズ オーバーサイズコート",
+        "description": "ワイドカット、ウール混紡、長袖、カジュアルラグジュアリースタイル。"
+    },
+    "robe_pull_cachemire_max_mara": {
+        "name": "マックスマーラ カシミアセータードレス",
+        "description": "厚手のニット、フィットしたカット、長袖、快適さとエレガンス。"
+    },
+    "pantalon_cuir_saint_laurent": {
+        "name": "サンローラン レザーパンツ",
+        "description": "プレミアムラムスキン、スリムフィット、ロックシックスタイル。"
+    },
+    "jupe_plissee_midi_valentino": {
+        "name": "ヴァレンティノ ミディプリーツスカート",
+        "description": "軽量生地、繊細なプリーツ、ハイウエスト、エレガンス保証。"
+    },
+    "tshirt_brode_logo_gucci": {
+        "name": "グッチ 刺繍ロゴTシャツ",
+        "description": "プレミアムコットン、控えめな刺繍ロゴ、フィットしたカット。"
+    },
+    "pull_col_bateau_manches_ballon_chloe": {
+        "name": "クロエ ボートネックセーター バルーンスリーブ付き",
+        "description": "ファインウール、やや膨らんだ袖、フェミニンでモダンなルック。"
+    },
+    "robe_chemise_oversize_balenciaga": {
+        "name": "バレンシアガ オーバーサイズシャツドレス",
+        "description": "厚手のコットン、ルーズカット、アーバンでシックなスタイル。"
+    },
+    "pantalon_palazzo_laine_max_mara": {
+        "name": "マックスマーラ ウールパラッツォパンツ",
+        "description": "ワイドカット、ハイウエスト、メリノウール生地、洗練されたルック。"
+    },
+    "blazer_satin_saint_laurent": {
+        "name": "サンローラン サテンブレザー",
+        "description": "フィットしたカット、ソフトサテン、長袖、夜の外出やオフィスに最適。"
+    },
+    "robe_longue_velours_valentino": {
+        "name": "ヴァレンティノ ロングベルベットドレス",
+        "description": "プレミアムベルベット、流れるようなカット、長袖、エレガントで豪華なルック。"
+    },
+    "tom_ford_slim_fit_shirt": {
+      "name": "トムフォード スリムフィットシャツ",
+      "description": "コットンポプリンシャツ、スリムフィット、イタリアンカラー、マザーオブパールボタン、ラグジュアリー仕上げ。"
+    },
+    "ralph_lauren_pique_polo": {
+      "name": "ラルフローレン パープルレーベル ピケポロ",
+      "description": "プレミアムコットン製のソフトなポロシャツ、モダンなカット、刺繍ロゴ、補強された襟。"
+    },
+    "loro_piana_cashmere_turtleneck": {
+      "name": "ロロピアーナ カシミアタートルネック",
+      "description": "100%イタリアンカシミア、ファインニット、超ソフト、洗練されたカット。"
+    },
+    "hugo_boss_round_neck_tshirt": {
+      "name": "ヒューゴボス ブラック ラウンドネックTシャツ",
+      "description": "プレミアムTシャツ、マーセライズドコットン、控えめなロゴ、スリムフィット。"
+    },
+    "burberry_stretch_chino_pants": {
+      "name": "バーバリー ストレッチチノパンツ",
+      "description": "伸縮性のあるコットン製のチノ、モダンなカット、内側に控えめなチェック柄。"
+    },
+    "diesel_slim_fit_jeans": {
+      "name": "ディーゼル ブラックゴールド スリムフィットジーンズ",
+      "description": "ストレッチジーンズ、プレミアムウォッシュ、シグネチャーメタルディテール。"
+    },
+    "moncler_nylon_bomber": {
+      "name": "モンクレール ナイロンボンバージャケット",
+      "description": "軽量パッド入りジャケット、モダンなカット、袖にロゴ。"
+    },
+    "saint_laurent_leather_jacket_men": {
+      "name": "サンローラン レザージャケット",
+      "description": "超ソフトなラムスキン、ロックなカット、YSLシルバーのジッパー。"
+    },
+    "giorgio_armani_suit_jacket": {
+      "name": "ジョルジオ・アルマーニ スーツジャケット",
+      "description": "ヴァージンウール製のジャケット、洗練されたカット、シルクの裏地。"
+    },
+    "zegna_2_piece_suit": {
+      "name": "ゼニア 2ピーススーツ",
+      "description": "イタリアンメリノウール、スリムフィット、ナチュラルショルダー。"
+    },
+    "off_white_hoodie": {
+      "name": "オフホワイト フーディー",
+      "description": "厚手のコットン、背中に矢印のモチーフ、シグネチャープリント。"
+    },
+    "fear_of_god_essential_tshirt": {
+      "name": "フィアオブゴッド エッセンシャルズ 「エッセンシャル」Tシャツ",
+      "description": "プレミアムコットン、エンボスロゴ、オーバーサイズカット。"
+    },
+    "lacoste_merino_wool_sweater": {
+      "name": "ラコステ メリノウールセーター",
+      "description": "ファインニット、ラウンドネック、刺繍ワニ、クラシックカット。"
+    },
+    "balenciaga_oversize_shirt": {
+      "name": "バレンシアガ オーバーサイズシャツ",
+      "description": "厚手のコットン、ワイドシルエット、控えめなブランディング。"
+    },
+    "acne_studios_flannel_overshirt": {
+      "name": "アクネ ストゥディオズ フランネルオーバーシャツ",
+      "description": "ソフトなフランネル、リラックスカット、胸ポケット。"
+    },
+    "stone_island_cargo_shorts": {
+      "name": "ストーンアイランド カーゴショーツ",
+      "description": "耐久性のある生地、ストーンアイランドのバッジ、ユーティリティカット。"
+    },
+    "canada_goose_lightweight_down_jacket": {
+      "name": "カナダグース ライトウェイトダウンジャケット",
+      "description": "断熱性、防風生地、クリーンなデザイン。"
+    },
+    "the_north_face_expedition_parka": {
+      "name": "ザ・ノース・フェイス ブラックシリーズ 「エクスペディション」パーカ",
+      "description": "耐久性、防水性、マルチポケット、調節可能なフード。"
+    },
+    "brunello_cucinelli_cashmere_zip_cardigan": {
+      "name": "ブルネロ・クチネリ カシミアジップカーディガン",
+      "description": "極細カシミア、メタルジップ、エレガントなカット。"
+    },
+    "max_mara_long_wool_coat": {
+      "name": "マックスマーラ オム ロングウールコート",
+      "description": "暖かいウール、ロングカット、オプションのベルト。"
+    },
+    "levis_denim_jacket": {
+      "name": "リーバイス メイド＆クラフテッド デニムジャケット",
+      "description": "プレミアムデニム、クラシックカット、職人仕上げ。"
+    },
+    "dior_homme_tailored_pants": {
+      "name": "ディオール オム テーラードパンツ",
+      "description": "エレガントなテーパードカット、ファインウール、クチュールルック。"
+    },
+    "versace_silk_shirt": {
+      "name": "ヴェルサーチ シルクシャツ",
+      "description": "プリントシルク、バロック柄、イタリアンカラー。"
+    },
+    "palm_angels_printed_hoodie": {
+      "name": "パームエンジェルス プリントフーディー",
+      "description": "厚手のコットン、ヤシの木のモチーフ、オーバーサイズカット。"
+    },
+    "barbour_quilted_jacket": {
+      "name": "バブアー インターナショナル キルティングジャケット",
+      "description": "ダイヤモンドキルティング、クラシックカット、ベルベットカラー。"
+    },
+    "paul_smith_cable_knit_sweater": {
+      "name": "ポール・スミス ケーブルニットセーター",
+      "description": "ソフトなウール、ケーブルニットパターン、対照的な仕上げ。"
+    },
+    "givenchy_logo_tshirt": {
+      "name": "ジバンシィ ロゴTシャツ",
+      "description": "刺繍ロゴ、プレミアムコットン、ストレートカット。"
+    },
+    "adidas_gucci_luxury_tracksuit": {
+      "name": "アディダス x グッチ ラグジュアリートラックスーツ",
+      "description": "プレミアムポリエステル、グッチストライプ、レトロカット。"
+    },
+    "nike_acg_technical_jacket": {
+      "name": "ナイキ ACG テクニカルジャケット",
+      "description": "防水、通気性、モダンなアウトドアカット。"
+    },
+    "prada_sleeveless_gilet": {
+      "name": "プラダ ノースリーブジレ",
+      "description": "プラダナイロン、ミニマリストカット、トライアングルロゴ。"
+    },
+    "hugo_boss_long_wool_coat": {
+      "name": "ヒューゴ・ボス ロングウールコート",
+      "description": "暖かいウール製のダブルブレストコート、エレガントなカット、サテンの裏地、寒い冬に最適。"
+    },
+    "moncler_quilted_down_jacket": {
+      "name": "モンクレール キルティングダウンジャケット",
+      "description": "軽量ながら非常に暖かいダウンジャケット、羽毛の中綿、取り外し可能なフード、プレミアムなルック。"
+    },
+    "canada_goose_arctic_parka": {
+      "name": "カナダグース アークティックパーカ",
+      "description": "極寒からの保護、ファー付きフード、防風生地。"
+    },
+    "loro_piana_cashmere_coat_men": {
+      "name": "ロロ・ピアーナ カシミアコート（メンズ）",
+      "description": "イタリアンカシミア、抜群の柔らかさ、豪華なロングカット。"
+    },
+    "saint_laurent_shearling_jacket": {
+      "name": "サンローラン シアリングジャケット",
+      "description": "リバーシブルレザー、内側は羊毛、時代を超えたプレミアムスタイル。"
+    },
+    "paul_smith_merino_turtleneck": {
+      "name": "ポール・スミス メリノウールタートルネック",
+      "description": "厚手で柔らかいニット、保温性、モダンなカット。"
+    },
+    "acne_studios_lined_overshirt_men": {
+      "name": "アクネ ストゥディオズ 裏地付きオーバーシャツ（メンズ）",
+      "description": "暖かいシェルパ裏地のオーバーシャツ、アーバンスタイル。"
+    },
+    "polo_ralph_lauren_down_vest": {
+      "name": "ポロ ラルフローレン ダウンベスト",
+      "description": "軽量で暖かく、セーターの上に重ね着するのに最適。"
+    },
+    "burberry_lined_trench_coat": {
+      "name": "バーバリー 裏地付きトレンチコート",
+      "description": "アイコニックなバーバリーのトレンチコートの冬バージョン、断熱裏地。"
+    },
+    "dior_homme_thick_cable_knit": {
+      "name": "ディオール オム 厚手ケーブルニットセーター",
+      "description": "厚手のケーブルニットウール、シックでモダンなスタイル。"
+    },
+    "tnf_black_series_technical_jacket": {
+      "name": "ザ・ノース・フェイス ブラックシリーズ テクニカル防水ジャケット",
+      "description": "極限状態向けに設計、通気性と防水性。"
+    },
+    "nike_acg_thermal_pants": {
+      "name": "ナイキ ACG サーマルパンツ",
+      "description": "断熱生地、ストリートカット、厳しい気温に最適。"
+    },
+    "sandro_double_breasted_pea_coat": {
+      "name": "サンドロ ダブルブレストウールピーコート",
+      "description": "二重の厚さ、再解釈されたミリタリーカット。"
+    },
+    "armani_exchange_premium_down_jacket": {
+      "name": "アルマーニ エクスチェンジ プレミアムダウンジャケット",
+      "description": "暖かく、軽量、フィット感のあるカット、モダンなデザイン。"
+    },
+    "zegna_velvet_coat": {
+      "name": "ゼニア ベルベットコート",
+      "description": "厚手のイタリアンベルベット、超豪華なウィンタールック。"
+    },
+    "max_mara_belted_wool_coat": {
+      "name": "マックスマーラ ベルト付きロングウールコート",
+      "description": "エレガントなカット、ソフトなウール、ウエストを絞るベルト。"
+    },
+    "moncler_long_down_jacket_women": {
+      "name": "モンクレール ロングダウンジャケット（レディース）",
+      "description": "足首までの長さ、超暖かく、スリムなシルエット。"
+    },
+    "loro_piana_cashmere_coat_women": {
+      "name": "ロロ・ピアーナ カシミアコート（レディース）",
+      "description": "プレミアムカシミア、柔らかさ、豪華なドレープ。"
+    },
+    "canada_goose_faux_fur_parka": {
+      "name": "カナダグース フェイクファーパーカ",
+      "description": "極度の断熱性、裏地付きのXLフード。"
+    },
+    "acne_studios_shearling_jacket_women": {
+      "name": "アクネ ストゥディオズ シアリングジャケット（レディース）",
+      "description": "リバーシブルレザーと羊毛、シックなウィンタールック。"
+    },
+    "jacquemus_oversized_wool_sweater": {
+      "name": "ジャックムス オーバーサイズドウールセーター",
+      "description": "厚手のウール、トレンディなワイドカット。"
+    },
+    "stand_studio_faux_fur_coat": {
+      "name": "スタンド スタジオ フェイクファーコート",
+      "description": "ソフトなフェイクファー、グラマラスなカット。"
+    },
+    "prada_short_down_jacket": {
+      "name": "プラダ ショートダウンジャケット",
+      "description": "アイコニックなプラダナイロン、絞られたシルエット。"
+    },
+    "chloe_cashmere_turtleneck": {
+      "name": "クロエ カシミアタートルネック",
+      "description": "高級なファインニット、フェミニンなカット。"
+    },
+    "burberry_wool_cape": {
+      "name": "バーバリー ウールケープ",
+      "description": "暖かいケープ、内側はチェック柄。"
+    },
+    "isabel_marant_quilted_overshirt": {
+      "name": "イザベル マラン キルティングオーバーシャツ",
+      "description": "軽量なキルティング、カジュアルシックスタイル。"
+    },
+    "tnf_technical_jacket_women": {
+      "name": "ザ・ノース・フェイス テクニカル防水ジャケット（レディース）",
+      "description": "寒さと雨のために設計、軽量で暖かい。"
+    },
+    "maje_thick_wool_skirt": {
+      "name": "マージュ 厚手ウールスカート",
+      "description": "構築的な冬用スカート、ブーツとの相性抜群。"
+    },
+    "etro_wool_poncho": {
+      "name": "エトロ ウールポンチョ",
+      "description": "シグネチャーのカラフルな柄、暖かいウール。"
+    },
+    "zara_premium_xxl_puffer_coat": {
+      "name": "ザラ プレミアム XXL パファーコート",
+      "description": "非常に暖かく、ワイドで、トレンディ、手頃な価格。"
+    },
+    "chrono_luxe_watch": {
+      "name": "クロノラックス ブラックスレンレススチールウォッチ",
+      "description": "精密なクロノグラフダイヤル、傷に強いミネラルガラス、調節可能なブレスレットを備えたエレガントなブラックスレンレススチールウォッチ。プロフェッショナルで耐久性のあるスタイル。"
+    },
+    "hydrosport_watch": {
+      "name": "ハイドロスポーツ 5 ATM スポーツシリコンウォッチ",
+      "description": "滑り止めシリコンストラップ、50m防水、強化スクリーン、基本機能を備えたスポーツウォッチ。スポーツや日常生活に最適。"
+    },
+    "heritage_watch": {
+      "name": "ヘリテージ クラシック ブラウンレザーウォッチ",
+      "description": "本物のブラウンレザーストラップ、シンプルでエレガントなダイヤル、信頼性の高いムーブメントを備えたタイムレスなモデル。シックで落ち着いた印象。"
+    },
+    "blue_vision_watch": {
+      "name": "ブルービジョン シルバーメタルウォッチ",
+      "description": "ポリッシュ仕上げのシルバーメタルブレスレット、視認性の高いディープブルーのダイヤル、クォーツムーブメント。オフィスに非常に上品。"
+    },
+    "urban_tech_watch": {
+      "name": "アーバンテック デジタルLEDウォッチ",
+      "description": "未来的なデザイン、クリアなLEDディスプレイ、耐衝撃ケース。モダンなルックに最適。"
+    },
+    "executive_elite_watch": {
+      "name": "エグゼクティブ エリート ローズゴールドダイヤルウォッチ",
+      "description": "プレミアムブラックレザーストラップ、精巧なローズゴールドダイヤル、頑丈なケース。高級感あふれるルックを保証。"
+    },
+    "titan_steel_watch": {
+      "name": "タイタンスチール プロ クロノグラフウォッチ",
+      "description": "重厚なプレミアム感のあるウォッチ、精密なクロノグラフ、強化スチールブレスレット。非常に耐性があり豪華。"
+    },
+    "nordic_luxe_beanie": {
+      "name": "ノルディックラックス ブラックケーブルニットウールビーニー",
+      "description": "プレミアムウールニットビーニー、ケーブルニットパターン、ぴったりとしたフィット感。快適でスタイリッシュ。"
+    },
+    "winter_essential_beanie": {
+      "name": "ウィンターエッセンシャル シックグレービーニー",
+      "description": "厚手で断熱性のあるニットモデル、厳しい寒さに最適。"
+    },
+    "alpine_soft_scarf": {
+      "name": "アルパインソフト プレミアムヴァージンウールスカーフ",
+      "description": "ヴァージンウール製の長くて柔らかいスカーフ、肌触りが良く非常に暖かい。"
+    },
+    "winter_shield_snood": {
+      "name": "ウィンターシールド プレミアムフリーススヌード",
+      "description": "非常に柔らかいフリースのチューブスカーフ、すぐに暖かくなります。"
+    },
+    "urban_knit_beanie": {
+      "name": "アーバンニット ストリートウェアカフビーニー",
+      "description": "シンプルでトレンディなビーニー、カフ付きのストリートカット、非常に快適。"
+    },
+    "tech_gloves": {
+      "name": "テックグローブ サーマルタッチスクリーングローブ",
+      "description": "タッチスクリーン対応の暖かい手袋、内側は柔らかいフリース。"
+    },
+    "slimfold_wallet": {
+      "name": "スリムフォールド プレミアムジェニュインレザーウォレット",
+      "description": "プレミアムレザーウォレット、複数のコンパートメント、スリムでエレガントなデザイン。"
+    },
+    "executive_bag": {
+      "name": "エグゼクティブバッグ プレミアムレザークロスボディバッグ",
+      "description": "電話、財布、アクセサリー用のコンパクトなバッグ。頑丈なレザーとシックなルック。"
+    },
+    "golden_lady_watch": {
+      "name": "ゴールデンレディ エレガントゴールドウォッチ",
+      "description": "繊細で女性らしい時計、繊細なゴールドのブレスレット、ミニマリストなダイヤル。非常にエレガント。"
+    },
+    "silver_pure_watch": {
+      "name": "シルバーピュア ミニマリストシルバーウォッチ",
+      "description": "クリーンなダイヤル、ミラネーゼスタイルのシルバーブレスレット、軽くて快適。"
+    },
+    "soft_elegance_watch": {
+      "name": "ソフトエレガンス ベージュレザーウォッチ",
+      "description": "プレミアムベージュレザーストラップ、クリーンなホワイトダイヤル。ナチュラルシックなスタイルに最適。"
+    },
+    "rose_queen_watch": {
+      "name": "ローズクイーン ローズゴールドミラネーゼメッシュウォッチ",
+      "description": "トレンディな時計、細いメッシュブレスレット、明るいローズゴールドトーン。"
+    },
+    "cozy_glam_beanie": {
+      "name": "コージーグラム フェイクファーポンポン付きウールビーニー",
+      "description": "ふわふわのポンポンが付いた柔らかくて暖かいビーニー。非常にフェミニン。"
+    },
+    "urban_chic_beanie": {
+      "name": "アーバンシック ロングオーバーサイズビーニー",
+      "description": "アーバンスタイル、ロングカット、非常にソフト。"
+    },
+    "winter_pearl_beanie": {
+      "name": "ウィンターパール ニットビーニー",
+      "description": "小さなエレガントなパールで飾られています。シックなウィンタールック。"
+    },
+    "luxe_soft_scarf": {
+      "name": "ラックスソフト オーバーサイズフェイクファースカーフ",
+      "description": "非常に厚く、柔らかく、豪華。グラマラスなアクセサリー。"
+    },
+    "warm_plush_scarf": {
+      "name": "ウォームプラッシュ ケーブルニットスカーフ",
+      "description": "柔らかいケーブルニットの質感、暖かさ保証。"
+    },
+    "elegant_wrap_shawl": {
+      "name": "エレガントラップ パターン付きウィンターショール",
+      "description": "控えめなパターンのロングショール、ドレッシーな服装に最適。"
+    },
+    "cashmere_touch_scarf": {
+      "name": "カシミアタッチ プリントカシミアスカーフ",
+      "description": "柔らかいカシミア生地、洗練されたパターン。"
+    },
+    "lady_warm_gloves": {
+      "name": "レディウォーム フリース裏地付きレザーグローブ",
+      "description": "暖かい裏地付きのしなやかなレザーグローブ。"
+    },
+    "mini_glam_handbag": {
+      "name": "ミニグラム スモールシックハンドバッグ",
+      "description": "小さくてエレガントなバッグ、夜にも昼にも最適。"
+    },
+    "shine_drop_earrings": {
+      "name": "シャインドロップ シルバーダングルイヤリング",
+      "description": "細くて光沢のある形、上品なスタイル。"
+    },
+    "shine_night_clutch": {
+      "name": "シャインナイト プレミアムイブニングクラッチ",
+      "description": "光沢のある効果を持つ小さくてエレガントなクラッチ。"
+    }
+  }
+}
+
+    
